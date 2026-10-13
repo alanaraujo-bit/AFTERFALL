@@ -1,0 +1,4289 @@
+{
+  "generatedAt": "2026-10-13",
+  "seriesIds": {
+    "twd": "The Walking Dead",
+    "fear": "Fear the Walking Dead",
+    "wb": "The Walking Dead: World Beyond",
+    "tales": "Tales of the Walking Dead",
+    "towl": "The Walking Dead: The Ones Who Live",
+    "dd": "The Walking Dead: Daryl Dixon",
+    "dc": "The Walking Dead: Dead City"
+  },
+  "confidenceScale": {
+    "high": "Stated directly by Wikipedia (episode summaries / season articles) or on-screen title cards reported there.",
+    "medium": "Ordering from Fandom wiki timelines consistent with Wikipedia, but not officially dated.",
+    "approximate": "Fan guess, conflicting sources, or not yet aired."
+  },
+  "anchors": [
+    {
+      "id": "fear-prequel",
+      "claim": "Fear S1–S3 serve as a prequel (start of the outbreak); from S4 the series runs concurrently with TWD.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fear_the_Walking_Dead",
+        "https://en.wikipedia.org/wiki/Fear_the_Walking_Dead_season_4"
+      ]
+    },
+    {
+      "id": "fear-s1-s3-vs-twd",
+      "claim": "Task brief anchor 'Fear S1–S3 runs concurrently with TWD S1–S4' is NOT supported: Fandom places all of Fear S1–S3 in the outbreak year (2010 fan-dating), alongside Rick's coma / TWD S1–S2, not TWD S3–S4.",
+      "confidence": "medium",
+      "sources": [
+        "https://walkingdead.fandom.com/wiki/Chronological_Episode_Order",
+        "https://walkingdead.fandom.com/wiki/Fear_the_Walking_Dead_Timeline"
+      ]
+    },
+    {
+      "id": "morgan-crossover",
+      "claim": "Fear S4E01: Morgan leaves his Virginia community (urged to stay by Rick) and reaches Texas – after TWD S8.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fear_the_Walking_Dead_season_4",
+        "https://walkingdead.fandom.com/wiki/Chronological_Episode_Order"
+      ]
+    },
+    {
+      "id": "twd-s9-skips",
+      "claim": "TWD S9 contains two jumps: ~1.5 years after S8 at the premiere (Tom Payne quote), and 'six years later' after Rick's helicopter exit in S9E05.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead_season_9"
+      ]
+    },
+    {
+      "id": "wb-ten-years",
+      "claim": "World Beyond is set ten years after the apocalypse began.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_World_Beyond"
+      ]
+    },
+    {
+      "id": "fear-s8-seven-years",
+      "claim": "Fear S8 takes place seven years after S7 (skip occurs in S8E01).",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fear_the_Walking_Dead_season_8"
+      ]
+    },
+    {
+      "id": "twd-epilogue",
+      "claim": "TWD S11 finale ends with a 'year later' epilogue; Daryl sets out to find Rick.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead_season_11"
+      ]
+    },
+    {
+      "id": "towl-backstory",
+      "claim": "TOWL is set after TWD's conclusion with backstory covering the years since TWD S9E05.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_The_Ones_Who_Live"
+      ]
+    },
+    {
+      "id": "spinoffs-after-twd",
+      "claim": "Daryl Dixon and Dead City are set after the original series' conclusion.",
+      "confidence": "high",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_Daryl_Dixon",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_Dead_City"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "fall",
+      "order": 1,
+      "labelPt": "A Queda",
+      "labelEn": "The Fall",
+      "summaryPt": "Os primeiros dias e meses do surto: Los Angeles/México (Fear S1–S3) e Geórgia (TWD S1–S2).",
+      "items": [
+        {
+          "series": "tales",
+          "season": 1,
+          "episodes": [
+            2,
+            2
+          ],
+          "confidence": "medium",
+          "note": "'Blair/Gina' – Fandom places it on outbreak Day 3 (2010)."
+        },
+        {
+          "series": "torn-apart",
+          "kind": "webisode",
+          "confidence": "high"
+        },
+        {
+          "series": "fear",
+          "season": 1,
+          "episodes": [
+            1,
+            3
+          ],
+          "confidence": "high"
+        },
+        {
+          "series": "flight-462",
+          "kind": "webisode",
+          "confidence": "high"
+        },
+        {
+          "series": "fear",
+          "season": 1,
+          "episodes": [
+            4,
+            6
+          ],
+          "confidence": "high"
+        },
+        {
+          "series": "dead-in-the-water",
+          "kind": "webisode",
+          "confidence": "medium"
+        },
+        {
+          "series": "fear",
+          "season": 2,
+          "confidence": "high"
+        },
+        {
+          "series": "passage",
+          "kind": "webisode",
+          "confidence": "medium"
+        },
+        {
+          "series": "fear",
+          "season": 3,
+          "confidence": "medium",
+          "note": "Fandom puts all of Fear S3 in 2010; Wikipedia only says S1–S3 'serve as a prequel'."
+        },
+        {
+          "series": "tales",
+          "season": 1,
+          "episodes": [
+            6,
+            6
+          ],
+          "confidence": "approximate",
+          "note": "'La Doña' – Fandom explicitly says its placement is unknown and its slot is a guess."
+        },
+        {
+          "series": "cold-storage",
+          "kind": "webisode",
+          "confidence": "medium"
+        },
+        {
+          "series": "the-oath",
+          "kind": "webisode",
+          "confidence": "high"
+        },
+        {
+          "series": "twd",
+          "season": 1,
+          "confidence": "high"
+        },
+        {
+          "series": "twd",
+          "season": 2,
+          "confidence": "high"
+        }
+      ],
+      "interleaveNote": "Fear S1 begins at the very start of the outbreak, while Rick is in his coma (TWD S1E01 opens weeks in). Fandom lists Fear S1–S3 entirely before TWD S1E01, but in reality their days overlap with Rick's coma and TWD S1–S2; a strict day-level interleave is not stated by any source."
+    },
+    {
+      "id": "prison-road",
+      "order": 2,
+      "labelPt": "Prisão e estrada",
+      "labelEn": "Prison and the Road",
+      "summaryPt": "Prisão, Woodbury, Terminus e a estrada até a Virgínia.",
+      "items": [
+        {
+          "series": "twd",
+          "season": 3,
+          "confidence": "high"
+        },
+        {
+          "series": "tales",
+          "season": 1,
+          "episodes": [
+            1,
+            1
+          ],
+          "confidence": "medium",
+          "note": "'Evie/Joe' – Fandom Tales timeline: ~Day 404–459 (late 2011, fan-estimated), between TWD S3 and S4."
+        },
+        {
+          "series": "twd",
+          "season": 4,
+          "confidence": "high"
+        },
+        {
+          "series": "twd",
+          "season": 5,
+          "episodes": [
+            1,
+            11
+          ],
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "communities",
+      "order": 3,
+      "labelPt": "Comunidades",
+      "labelEn": "The Communities",
+      "summaryPt": "Alexandria, Hilltop, Reino e a guerra contra os Salvadores.",
+      "items": [
+        {
+          "series": "twd",
+          "season": 5,
+          "episodes": [
+            12,
+            16
+          ],
+          "confidence": "high"
+        },
+        {
+          "series": "twd",
+          "season": 6,
+          "confidence": "high"
+        },
+        {
+          "series": "twd",
+          "season": 7,
+          "confidence": "high"
+        },
+        {
+          "series": "twd",
+          "season": 8,
+          "confidence": "high"
+        },
+        {
+          "series": "red-machete",
+          "kind": "webisode",
+          "confidence": "medium",
+          "note": "Spans the whole apocalypse up to after TWD S8; watch here."
+        }
+      ]
+    },
+    {
+      "id": "after-war",
+      "order": 4,
+      "labelPt": "Depois da guerra",
+      "labelEn": "After the War",
+      "summaryPt": "Morgan deixa a Virgínia e encontra o grupo de Fear no Texas; TWD salta ~1,5 ano após a S8.",
+      "items": [
+        {
+          "series": "fear",
+          "season": 4,
+          "confidence": "high",
+          "note": "Present-day storyline starts after TWD S8 (Morgan leaves Virginia). Split timeline: S4A flashbacks cover the group's time between Fear S3 and S4 (Fandom dates both ~2012)."
+        },
+        {
+          "series": "tales",
+          "season": 1,
+          "episodes": [
+            3,
+            3
+          ],
+          "confidence": "medium",
+          "note": "'Dee' – Fandom: steamboat period ~2012–2013, before the Whisperers era in TWD."
+        },
+        {
+          "series": "fear",
+          "season": 5,
+          "episodes": [
+            1,
+            8
+          ],
+          "confidence": "medium"
+        },
+        {
+          "series": "althea-tapes",
+          "kind": "webisode",
+          "confidence": "medium"
+        },
+        {
+          "series": "fear",
+          "season": 5,
+          "episodes": [
+            9,
+            16
+          ],
+          "confidence": "medium"
+        },
+        {
+          "series": "twd",
+          "season": 9,
+          "episodes": [
+            1,
+            5
+          ],
+          "confidence": "high",
+          "note": "Opens ~1.5 years after TWD S8 (Tom Payne, cited on Wikipedia S9 page). Fandom orders Fear S4–S5 before TWD S9E01–05; the relative order of Fear S5 vs TWD S9A is fan-derived."
+        }
+      ]
+    },
+    {
+      "id": "lost-years",
+      "order": 5,
+      "labelPt": "Os Anos Perdidos",
+      "labelEn": "The Lost Years (six-year gap)",
+      "summaryPt": "O salto de seis anos de TWD (após S9E05). Fear S6–S7 e World Beyond acontecem nesse intervalo.",
+      "items": [
+        {
+          "series": "fear",
+          "season": 6,
+          "confidence": "medium"
+        },
+        {
+          "series": "fear",
+          "season": 7,
+          "confidence": "medium"
+        },
+        {
+          "series": "tales",
+          "season": 1,
+          "episodes": [
+            4,
+            4
+          ],
+          "confidence": "medium",
+          "note": "'Amy/Dr. Everett' – Fandom: Everett has spent ten years isolated, i.e. ~year 10 (2020 fan-estimate)."
+        },
+        {
+          "series": "wb",
+          "season": 1,
+          "confidence": "high",
+          "note": "Wikipedia: set ten years after the apocalypse."
+        },
+        {
+          "series": "wb",
+          "season": 2,
+          "confidence": "high"
+        }
+      ],
+      "interleaveNote": "Rick's CRM backstory (shown in TOWL flashbacks) also unfolds during these years. Fandom places Fear S6–S7 around fan-year 2014 and WB in 2020 before TWD S9E06."
+    },
+    {
+      "id": "whisperers",
+      "order": 6,
+      "labelPt": "Sussurradores",
+      "labelEn": "The Whisperers",
+      "summaryPt": "Seis anos depois: Judith, os Sussurradores e a guerra com Alpha.",
+      "items": [
+        {
+          "series": "twd",
+          "season": 9,
+          "episodes": [
+            6,
+            16
+          ],
+          "confidence": "high",
+          "note": "S9E06 opens 'six years later' (Wikipedia)."
+        },
+        {
+          "series": "twd",
+          "season": 10,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "id": "commonwealth",
+      "order": 7,
+      "labelPt": "Commonwealth",
+      "labelEn": "The Commonwealth",
+      "summaryPt": "Ceifadores, Commonwealth e o fim de TWD; Fear chega ao fim após seu salto de sete anos.",
+      "items": [
+        {
+          "series": "twd",
+          "season": 11,
+          "episodes": [
+            1,
+            12
+          ],
+          "confidence": "high"
+        },
+        {
+          "series": "fear",
+          "season": 8,
+          "confidence": "approximate",
+          "note": "S8E01 jumps 'seven years' after Fear S7 (Wikipedia). Fandom slots all of Fear S8 between TWD S11E12 and S11E13; that interleave is fan-derived. Fear S8E09 'Sanctuary' revisits Virginia."
+        },
+        {
+          "series": "twd",
+          "season": 11,
+          "episodes": [
+            13,
+            24
+          ],
+          "confidence": "high",
+          "note": "Finale contains a 'one year later' epilogue that launches Daryl's and Rick/Michonne's spin-offs."
+        }
+      ]
+    },
+    {
+      "id": "after-end",
+      "order": 8,
+      "labelPt": "Depois do fim",
+      "labelEn": "After the End",
+      "summaryPt": "Os spin-offs pós-TWD: Rick e Michonne, Daryl na Europa, Maggie e Negan em Manhattan.",
+      "items": [
+        {
+          "series": "towl",
+          "season": 1,
+          "confidence": "medium",
+          "note": "Wikipedia: set after the conclusion of TWD. E1–E3 carry backstory spanning the gap since TWD S9E05 ('five years since being taken'; 'six years after Rick's supposed death')."
+        },
+        {
+          "series": "dd",
+          "season": 1,
+          "confidence": "high",
+          "note": "Begins after Daryl leaves the Commonwealth in the TWD S11 epilogue (Wikipedia cast notes; Fandom)."
+        },
+        {
+          "series": "dd",
+          "season": 2,
+          "confidence": "high"
+        },
+        {
+          "series": "dd",
+          "season": 3,
+          "confidence": "high"
+        },
+        {
+          "series": "dd",
+          "season": 4,
+          "confidence": "approximate",
+          "note": "Final season, 8 episodes, set for February 2027 – NOT YET AIRED."
+        },
+        {
+          "series": "tales",
+          "season": 1,
+          "episodes": [
+            5,
+            5
+          ],
+          "confidence": "approximate",
+          "note": "'Davon' – Fandom places it in fan-year 2025; no official dating found."
+        },
+        {
+          "series": "dc",
+          "season": 1,
+          "confidence": "medium",
+          "note": "Years after TWD's finale; length of gap disputed (see disagreements)."
+        },
+        {
+          "series": "dc",
+          "season": 2,
+          "confidence": "high",
+          "note": "Opens 'a year' after Maggie's return from New York (Wikipedia S2E01 summary)."
+        },
+        {
+          "series": "dc",
+          "season": 3,
+          "confidence": "high",
+          "note": "S3E01 picks up directly from S2's ending (Wikipedia summary; Fandom DC timeline 2028 block)."
+        }
+      ],
+      "interleaveNote": "TOWL, Daryl Dixon and Dead City run largely in parallel after the TWD finale; Fandom's list orders them TOWL → Daryl Dixon → Tales 'Davon' → Dead City, but no official source fixes their relative order."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "Dead City gap after TWD finale",
+      "positions": [
+        {
+          "source": "https://www.syfy.com/syfy-wire/the-walking-dead-maggie-negan-spinoff-dead-city-timeline",
+          "claim": "Two years after the series finale (SYFY, from Jeffrey Dean Morgan's comments)."
+        },
+        {
+          "source": "https://walkingdead.fandom.com/wiki/Dead_City_Timeline",
+          "claim": "Fandom dates S1 to 'June 2027' (~5 years after its 2022 dating of TWD S11), but the same page's day count (Day 6,875 from 2010-08-25) would fall in mid-2029 – internally inconsistent."
+        }
+      ],
+      "recommendation": "Say 'some years after the TWD finale' without a number."
+    },
+    {
+      "topic": "Passage placement",
+      "positions": [
+        {
+          "source": "https://walkingdead.fandom.com/wiki/Fear_the_Walking_Dead:_Passage",
+          "claim": "During Fear S2."
+        },
+        {
+          "source": "https://en.wikipedia.org/wiki/The_Walking_Dead_(franchise)",
+          "claim": "Before Fear S3."
+        }
+      ],
+      "recommendation": "Compatible – place at end of Fear S2."
+    },
+    {
+      "topic": "Althea Tapes placement",
+      "positions": [
+        {
+          "source": "https://walkingdead.fandom.com/wiki/The_Althea_Tapes",
+          "claim": "Mostly before Fear S4; finale between Fear S5E08 and S5E09."
+        },
+        {
+          "source": "https://walkingdead.fandom.com/wiki/Chronological_Episode_Order",
+          "claim": "Listed as a block between Fear S5E08 and S5E09."
+        }
+      ],
+      "recommendation": "Watch between Fear S5E08 and S5E09."
+    },
+    {
+      "topic": "Dead in the Water placement",
+      "positions": [
+        {
+          "source": "https://walkingdead.fandom.com/wiki/Fear_the_Walking_Dead:_Dead_in_the_Water",
+          "claim": "During Fear S1; prequel to Fear S6."
+        },
+        {
+          "source": "https://en.wikipedia.org/wiki/The_Walking_Dead_(franchise)",
+          "claim": "Set before Fear S6."
+        }
+      ],
+      "recommendation": "Chronologically after Fear S1; optionally offer 'watch before Fear S6'."
+    },
+    {
+      "topic": "Fear S8 vs TWD S11",
+      "positions": [
+        {
+          "source": "https://walkingdead.fandom.com/wiki/Chronological_Episode_Order",
+          "claim": "All of Fear S8 between TWD S11E12 and S11E13."
+        }
+      ],
+      "recommendation": "Treat as approximate; no official source."
+    },
+    {
+      "topic": "Tales 'La Doña'",
+      "positions": [
+        {
+          "source": "https://walkingdead.fandom.com/wiki/Chronological_Episode_Order",
+          "claim": "Placement unknown; slot in 2010 is a guess."
+        }
+      ],
+      "recommendation": "Approximate."
+    }
+  ],
+  "fanYearCaveat": "fanYear values come from the Fandom 'Chronological Episode Order' page (outbreak = 2010). They are fan estimates, not official dates; do not display them as canon.",
+  "fandomEpisodeOrder": [
+    {
+      "n": 1,
+      "series": "tales",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "Blair/Gina",
+      "fanYear": 2010,
+      "arc": "Atlanta Outbreak"
+    },
+    {
+      "n": 2,
+      "series": "torn-apart",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "Torn Apart",
+      "fanYear": 2010,
+      "arc": "King County Outbreak"
+    },
+    {
+      "n": 3,
+      "series": "fear",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "Pilot",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 4,
+      "series": "fear",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "So Close, Yet So Far",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 5,
+      "series": "fear",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "The Dog",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 6,
+      "series": "flight-462",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "Flight 462",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 7,
+      "series": "fear",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "Not Fade Away",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 8,
+      "series": "fear",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Cobalt",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 9,
+      "series": "fear",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "The Good Man",
+      "fanYear": 2010,
+      "arc": "L.A. Outbreak"
+    },
+    {
+      "n": 10,
+      "series": "dead-in-the-water",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "Dead in the Water",
+      "fanYear": 2010,
+      "arc": "Texas Gulf"
+    },
+    {
+      "n": 11,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 1,
+      "title": "Monster",
+      "fanYear": 2010,
+      "arc": "Pacific Coast"
+    },
+    {
+      "n": 12,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 2,
+      "title": "We All Fall Down",
+      "fanYear": 2010,
+      "arc": "Pacific Coast"
+    },
+    {
+      "n": 13,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 3,
+      "title": "Ouroboros",
+      "fanYear": 2010,
+      "arc": "Pacific Coast"
+    },
+    {
+      "n": 14,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 4,
+      "title": "Blood in the Streets",
+      "fanYear": 2010,
+      "arc": "Pacific Coast"
+    },
+    {
+      "n": 15,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 5,
+      "title": "Captive",
+      "fanYear": 2010,
+      "arc": "Pacific Coast"
+    },
+    {
+      "n": 16,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 6,
+      "title": "Sicut Cervus",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 17,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 7,
+      "title": "Shiva",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 18,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 8,
+      "title": "Grotesque",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 19,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 9,
+      "title": "Los Muertos",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 20,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 10,
+      "title": "Do Not Disturb",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 21,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 11,
+      "title": "Pablo & Jessica",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 22,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 12,
+      "title": "Pillar of Salt",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 23,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 13,
+      "title": "Date of Death",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 24,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 14,
+      "title": "Wrath",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 25,
+      "series": "fear",
+      "kind": "episode",
+      "season": 2,
+      "episode": 15,
+      "title": "North",
+      "fanYear": 2010,
+      "arc": "Baja California, Mexico"
+    },
+    {
+      "n": 26,
+      "series": "passage",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "Passage",
+      "fanYear": 2010,
+      "arc": "Southwest Desert, U.S."
+    },
+    {
+      "n": 27,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 1,
+      "title": "Eye of the Beholder",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 28,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 2,
+      "title": "The New Frontier",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 29,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 3,
+      "title": "TEOTWAWKI",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 30,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 4,
+      "title": "100",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 31,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 5,
+      "title": "Burning in Water, Drowning in Flame",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 32,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 6,
+      "title": "Red Dirt",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 33,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 7,
+      "title": "The Unveiling",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 34,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 8,
+      "title": "Children of Wrath",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 35,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 9,
+      "title": "Minotaur",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 36,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 10,
+      "title": "The Diviner",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 37,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 11,
+      "title": "La Serpiente",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 38,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 12,
+      "title": "Brother's Keeper",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 39,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 13,
+      "title": "This Land Is Your Land",
+      "fanYear": 2010,
+      "arc": "San Diego Area Ranch"
+    },
+    {
+      "n": 40,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 14,
+      "title": "El Matadero",
+      "fanYear": 2010,
+      "arc": "Tijuana Dam"
+    },
+    {
+      "n": 41,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 15,
+      "title": "Things Bad Begun",
+      "fanYear": 2010,
+      "arc": "Tijuana Dam"
+    },
+    {
+      "n": 42,
+      "series": "fear",
+      "kind": "episode",
+      "season": 3,
+      "episode": 16,
+      "title": "Sleigh Ride",
+      "fanYear": 2010,
+      "arc": "Tijuana Dam"
+    },
+    {
+      "n": 43,
+      "series": "tales",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "La Doña",
+      "fanYear": 2010,
+      "arc": "Haunted House"
+    },
+    {
+      "n": 44,
+      "series": "cold-storage",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "Cold Storage",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 45,
+      "series": "the-oath",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "The Oath",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 46,
+      "series": "twd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "Days Gone Bye",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 47,
+      "series": "twd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "Guts",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 48,
+      "series": "twd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "Tell It to the Frogs",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 49,
+      "series": "twd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "Vatos",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 50,
+      "series": "twd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Wildfire",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 51,
+      "series": "twd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "TS-19",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 52,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 1,
+      "title": "What Lies Ahead",
+      "fanYear": 2010,
+      "arc": "Atlanta"
+    },
+    {
+      "n": 53,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 2,
+      "title": "Bloodletting",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 54,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 3,
+      "title": "Save the Last One",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 55,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 4,
+      "title": "Cherokee Rose",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 56,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 5,
+      "title": "Chupacabra",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 57,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 6,
+      "title": "Secrets",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 58,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 7,
+      "title": "Pretty Much Dead Already",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 59,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 8,
+      "title": "Nebraska",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 60,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 9,
+      "title": "Triggerfinger",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 61,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 10,
+      "title": "18 Miles Out",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 62,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 11,
+      "title": "Judge, Jury, Executioner",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 63,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 12,
+      "title": "Better Angels",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 64,
+      "series": "twd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 13,
+      "title": "Beside the Dying Fire",
+      "fanYear": 2010,
+      "arc": "Rural Georgia Farmhouse"
+    },
+    {
+      "n": 65,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 1,
+      "title": "Seed",
+      "fanYear": 2011,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 66,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 2,
+      "title": "Sick",
+      "fanYear": 2011,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 67,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 3,
+      "title": "Walk With Me",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 68,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 4,
+      "title": "Killer Within",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 69,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 5,
+      "title": "Say the Word",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 70,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 6,
+      "title": "Hounded",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 71,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 7,
+      "title": "When the Dead Come Knocking",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 72,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 8,
+      "title": "Made to Suffer",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 73,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 9,
+      "title": "The Suicide King",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 74,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 10,
+      "title": "Home",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 75,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 11,
+      "title": "I Ain't a Judas",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 76,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 12,
+      "title": "Clear",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 77,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 13,
+      "title": "Arrow on the Doorpost",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 78,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 14,
+      "title": "Prey",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 79,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 15,
+      "title": "This Sorrowful Life",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 80,
+      "series": "twd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 16,
+      "title": "Welcome to the Tombs",
+      "fanYear": 2011,
+      "arc": "vs. Woodbury"
+    },
+    {
+      "n": 81,
+      "series": "tales",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "Evie/Joe",
+      "fanYear": 2011,
+      "arc": "Ohio Roadtrip"
+    },
+    {
+      "n": 82,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 1,
+      "title": "30 Days Without An Accident",
+      "fanYear": 2012,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 83,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 2,
+      "title": "Infected",
+      "fanYear": 2012,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 84,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 3,
+      "title": "Isolation",
+      "fanYear": 2012,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 85,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 4,
+      "title": "Indifference",
+      "fanYear": 2012,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 86,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 5,
+      "title": "Internment",
+      "fanYear": 2012,
+      "arc": "West Georgia Correctional Facility"
+    },
+    {
+      "n": 87,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 6,
+      "title": "Live Bait",
+      "fanYear": 2012,
+      "arc": "vs. The Governor"
+    },
+    {
+      "n": 88,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 7,
+      "title": "Dead Weight",
+      "fanYear": 2012,
+      "arc": "vs. The Governor"
+    },
+    {
+      "n": 89,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 8,
+      "title": "Too Far Gone",
+      "fanYear": 2012,
+      "arc": "vs. The Governor"
+    },
+    {
+      "n": 90,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 9,
+      "title": "After",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 91,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 10,
+      "title": "Inmates",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 92,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 11,
+      "title": "Claimed",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 93,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 12,
+      "title": "Still",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 94,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 13,
+      "title": "Alone",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 95,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 14,
+      "title": "The Grove",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 96,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 15,
+      "title": "Us",
+      "fanYear": 2012,
+      "arc": "Rural Georgia"
+    },
+    {
+      "n": 97,
+      "series": "twd",
+      "kind": "episode",
+      "season": 4,
+      "episode": 16,
+      "title": "A",
+      "fanYear": 2012,
+      "arc": "Terminus"
+    },
+    {
+      "n": 98,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 1,
+      "title": "No Sanctuary",
+      "fanYear": 2012,
+      "arc": "Terminus"
+    },
+    {
+      "n": 99,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 2,
+      "title": "Strangers",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 100,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 3,
+      "title": "Four Walls and a Roof",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 101,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 4,
+      "title": "Slabtown",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 102,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 5,
+      "title": "Self Help",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 103,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 6,
+      "title": "Consumed",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 104,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 7,
+      "title": "Crossed",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 105,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 8,
+      "title": "Coda",
+      "fanYear": 2012,
+      "arc": "St. Sarah's Church and Grady Memorial Hospital"
+    },
+    {
+      "n": 106,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 9,
+      "title": "What Happened and What's Going On",
+      "fanYear": 2012,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 107,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 10,
+      "title": "Them",
+      "fanYear": 2012,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 108,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 11,
+      "title": "The Distance",
+      "fanYear": 2012,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 109,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 12,
+      "title": "Remember",
+      "fanYear": 2012,
+      "arc": "Alexandria Safe-Zone"
+    },
+    {
+      "n": 110,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 13,
+      "title": "Forget",
+      "fanYear": 2012,
+      "arc": "Alexandria Safe-Zone"
+    },
+    {
+      "n": 111,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 14,
+      "title": "Spend",
+      "fanYear": 2012,
+      "arc": "Alexandria Safe-Zone"
+    },
+    {
+      "n": 112,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 15,
+      "title": "Try",
+      "fanYear": 2012,
+      "arc": "Alexandria Safe-Zone"
+    },
+    {
+      "n": 113,
+      "series": "twd",
+      "kind": "episode",
+      "season": 5,
+      "episode": 16,
+      "title": "Conquer",
+      "fanYear": 2012,
+      "arc": "Alexandria Safe-Zone"
+    },
+    {
+      "n": 114,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 1,
+      "title": "First Time Again",
+      "fanYear": 2012,
+      "arc": "Alexandria Safe-Zone"
+    },
+    {
+      "n": 115,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 2,
+      "title": "JSS",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 116,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 3,
+      "title": "Thank You",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 117,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 4,
+      "title": "Here's Not Here",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 118,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 5,
+      "title": "Now",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 119,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 6,
+      "title": "Always Accountable",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 120,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 7,
+      "title": "Heads Up",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 121,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 8,
+      "title": "Start to Finish",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 122,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 9,
+      "title": "No Way Out",
+      "fanYear": 2012,
+      "arc": "vs. The Wolves"
+    },
+    {
+      "n": 123,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 10,
+      "title": "The Next World",
+      "fanYear": 2012,
+      "arc": "Who is Negan?"
+    },
+    {
+      "n": 124,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 11,
+      "title": "Knots Untie",
+      "fanYear": 2012,
+      "arc": "Who is Negan?"
+    },
+    {
+      "n": 125,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 12,
+      "title": "Not Tomorrow Yet",
+      "fanYear": 2012,
+      "arc": "Who is Negan?"
+    },
+    {
+      "n": 126,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 13,
+      "title": "The Same Boat",
+      "fanYear": 2012,
+      "arc": "Who is Negan?"
+    },
+    {
+      "n": 127,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 14,
+      "title": "Twice as Far",
+      "fanYear": 2012,
+      "arc": "Who is Negan?"
+    },
+    {
+      "n": 128,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 15,
+      "title": "East",
+      "fanYear": 2012,
+      "arc": "Who is Negan?"
+    },
+    {
+      "n": 129,
+      "series": "twd",
+      "kind": "episode",
+      "season": 6,
+      "episode": 16,
+      "title": "Last Day on Earth",
+      "fanYear": 2012,
+      "arc": "Here's Negan"
+    },
+    {
+      "n": 130,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 1,
+      "title": "The Day Will Come When You Won't Be",
+      "fanYear": 2012,
+      "arc": "Here's Negan"
+    },
+    {
+      "n": 131,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 2,
+      "title": "The Well",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 132,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 3,
+      "title": "The Cell",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 133,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 4,
+      "title": "Service",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 134,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 5,
+      "title": "Go Getters",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 135,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 6,
+      "title": "Swear",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 136,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 7,
+      "title": "Sing Me a Song",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 137,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 8,
+      "title": "Hearts Still Beating",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 138,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 9,
+      "title": "Rock in the Road",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 139,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 10,
+      "title": "New Best Friends",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 140,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 11,
+      "title": "Hostiles and Calamities",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 141,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 12,
+      "title": "Say Yes",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 142,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 13,
+      "title": "Bury Me Here",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 143,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 14,
+      "title": "The Other Side",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 144,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 15,
+      "title": "Something They Need",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 145,
+      "series": "twd",
+      "kind": "episode",
+      "season": 7,
+      "episode": 16,
+      "title": "The First Day of the Rest of Your Life",
+      "fanYear": 2012,
+      "arc": "Virginia Communities"
+    },
+    {
+      "n": 146,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 1,
+      "title": "Mercy",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 147,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 2,
+      "title": "The Damned",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 148,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 3,
+      "title": "Monsters",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 149,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 4,
+      "title": "Some Guy",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 150,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 5,
+      "title": "The Big Scary U",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 151,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 6,
+      "title": "The King, the Widow, and Rick",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 152,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 7,
+      "title": "Time for After",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 153,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 8,
+      "title": "How It's Gotta Be",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 154,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 9,
+      "title": "Honor",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 155,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 10,
+      "title": "The Lost and the Plunderers",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 156,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 11,
+      "title": "Dead or Alive Or",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 157,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 12,
+      "title": "The Key",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 158,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 13,
+      "title": "Do Not Send Us Astray",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 159,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 14,
+      "title": "Still Gotta Mean Something",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 160,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 15,
+      "title": "Worth",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 161,
+      "series": "twd",
+      "kind": "episode",
+      "season": 8,
+      "episode": 16,
+      "title": "Wrath",
+      "fanYear": 2012,
+      "arc": "All Out War"
+    },
+    {
+      "n": 162,
+      "series": "red-machete",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "The Walking Dead: Red Machete",
+      "fanYear": 2012,
+      "arc": "Southeast Wilds, U.S."
+    },
+    {
+      "n": 163,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 1,
+      "title": "What's Your Story?",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 164,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 2,
+      "title": "Another Day in the Diamond",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 165,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 3,
+      "title": "Good Out Here",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 166,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 4,
+      "title": "Buried",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 167,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 5,
+      "title": "Laura",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 168,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 6,
+      "title": "Just in Case",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 169,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 7,
+      "title": "The Wrong Side of Where You Are Now",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 170,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 8,
+      "title": "No One's Gone",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 171,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 9,
+      "title": "People Like Us",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 172,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 10,
+      "title": "Close Your Eyes",
+      "fanYear": 2012,
+      "arc": "Dell Diamond Baseball Stadium and Rural Texas"
+    },
+    {
+      "n": 173,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 11,
+      "title": "The Code",
+      "fanYear": 2012,
+      "arc": "Texas/Mississippi Highways"
+    },
+    {
+      "n": 174,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 12,
+      "title": "Weak",
+      "fanYear": 2012,
+      "arc": "Texas/Mississippi Highways"
+    },
+    {
+      "n": 175,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 13,
+      "title": "Blackjack",
+      "fanYear": 2012,
+      "arc": "Texas/Mississippi Highways"
+    },
+    {
+      "n": 176,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 14,
+      "title": "MM 54",
+      "fanYear": 2012,
+      "arc": "Texas/Mississippi Highways"
+    },
+    {
+      "n": 177,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 15,
+      "title": "I Lose People...",
+      "fanYear": 2012,
+      "arc": "Texas/Mississippi Highways"
+    },
+    {
+      "n": 178,
+      "series": "fear",
+      "kind": "episode",
+      "season": 4,
+      "episode": 16,
+      "title": "... I Lose Myself",
+      "fanYear": 2012,
+      "arc": "Texas/Mississippi Highways"
+    },
+    {
+      "n": 179,
+      "series": "tales",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "Dee",
+      "fanYear": 2013,
+      "arc": "Atlantic Bayou Steamboat"
+    },
+    {
+      "n": 180,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 1,
+      "title": "Here to Help",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 181,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 2,
+      "title": "The Hurt That Will Happen",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 182,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 3,
+      "title": "Humbug's Gulch",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 183,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 4,
+      "title": "Skidmark",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 184,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 5,
+      "title": "The End of Everything",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 185,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 6,
+      "title": "The Little Prince",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 186,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 7,
+      "title": "Still Standing",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 187,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 8,
+      "title": "Is Anybody Out There?",
+      "fanYear": 2013,
+      "arc": "Rural Texas Radioactive Zone"
+    },
+    {
+      "n": 188,
+      "series": "althea-tapes",
+      "kind": "webisode",
+      "season": null,
+      "episode": null,
+      "title": "The Althea Tapes",
+      "fanYear": 2013,
+      "arc": "Texas Caravan"
+    },
+    {
+      "n": 189,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 9,
+      "title": "Channel 4",
+      "fanYear": 2013,
+      "arc": "Texas Caravan"
+    },
+    {
+      "n": 190,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 10,
+      "title": "210 Words Per Minute",
+      "fanYear": 2013,
+      "arc": "Texas Caravan"
+    },
+    {
+      "n": 191,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 11,
+      "title": "You're Still Here",
+      "fanYear": 2013,
+      "arc": "Texas Caravan"
+    },
+    {
+      "n": 192,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 12,
+      "title": "Ner Tamid",
+      "fanYear": 2013,
+      "arc": "Texas Caravan"
+    },
+    {
+      "n": 193,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 13,
+      "title": "Leave What You Don't",
+      "fanYear": 2013,
+      "arc": "Texas Caravan"
+    },
+    {
+      "n": 194,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 14,
+      "title": "Today and Tomorrow",
+      "fanYear": 2013,
+      "arc": "vs. The Pioneers"
+    },
+    {
+      "n": 195,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 15,
+      "title": "Channel 5",
+      "fanYear": 2013,
+      "arc": "vs. The Pioneers"
+    },
+    {
+      "n": 196,
+      "series": "fear",
+      "kind": "episode",
+      "season": 5,
+      "episode": 16,
+      "title": "End of the Line",
+      "fanYear": 2013,
+      "arc": "vs. The Pioneers"
+    },
+    {
+      "n": 197,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 1,
+      "title": "A New Beginning",
+      "fanYear": 2014,
+      "arc": "Virginia Communities Post-War"
+    },
+    {
+      "n": 198,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 2,
+      "title": "The Bridge",
+      "fanYear": 2014,
+      "arc": "Virginia Communities Post-War"
+    },
+    {
+      "n": 199,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 3,
+      "title": "Warning Signs",
+      "fanYear": 2014,
+      "arc": "Virginia Communities Post-War"
+    },
+    {
+      "n": 200,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 4,
+      "title": "The Obliged",
+      "fanYear": 2014,
+      "arc": "Virginia Communities Post-War"
+    },
+    {
+      "n": 201,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 5,
+      "title": "What Comes After",
+      "fanYear": 2014,
+      "arc": "Virginia Communities Post-War"
+    },
+    {
+      "n": 202,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 1,
+      "title": "The End Is the Beginning",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 203,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 2,
+      "title": "Welcome to the Club",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 204,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 3,
+      "title": "Alaska",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 205,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 4,
+      "title": "The Key",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 206,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 5,
+      "title": "Honey",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 207,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 6,
+      "title": "Bury Her Next to Jasper's Leg",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 208,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 7,
+      "title": "Damage From the Inside",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 209,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 8,
+      "title": "The Door",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 210,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 9,
+      "title": "Things Left to Do",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 211,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 10,
+      "title": "Handle With Care",
+      "fanYear": 2014,
+      "arc": "Valley Town, Texas vs. Lawton, Oklahoma"
+    },
+    {
+      "n": 212,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 11,
+      "title": "The Holding",
+      "fanYear": 2014,
+      "arc": "Doomsday Cult"
+    },
+    {
+      "n": 213,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 12,
+      "title": "In Dreams",
+      "fanYear": 2014,
+      "arc": "Doomsday Cult"
+    },
+    {
+      "n": 214,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 13,
+      "title": "J.D.",
+      "fanYear": 2014,
+      "arc": "Doomsday Cult"
+    },
+    {
+      "n": 215,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 14,
+      "title": "Mother",
+      "fanYear": 2014,
+      "arc": "Doomsday Cult"
+    },
+    {
+      "n": 216,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 15,
+      "title": "USS Pennsylvania",
+      "fanYear": 2014,
+      "arc": "Doomsday Cult"
+    },
+    {
+      "n": 217,
+      "series": "fear",
+      "kind": "episode",
+      "season": 6,
+      "episode": 16,
+      "title": "The Beginning",
+      "fanYear": 2014,
+      "arc": "Doomsday Cult"
+    },
+    {
+      "n": 218,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 1,
+      "title": "The Beacon",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 219,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 2,
+      "title": "Six Hours",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 220,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 3,
+      "title": "Cindy Hawkins",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 221,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 4,
+      "title": "Breathe With Me",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 222,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 5,
+      "title": "Till Death",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 223,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 6,
+      "title": "Reclamation",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 224,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 7,
+      "title": "The Portrait",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 225,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 8,
+      "title": "PADRE",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 226,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 9,
+      "title": "Follow Me",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 227,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 10,
+      "title": "Mourning Cloak",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 228,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 11,
+      "title": "Ofelia",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 229,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 12,
+      "title": "Sonny Boy",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 230,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 13,
+      "title": "The Raft",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 231,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 14,
+      "title": "Divine Providence",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 232,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 15,
+      "title": "Amina",
+      "fanYear": 2014,
+      "arc": "Texas Wasteland"
+    },
+    {
+      "n": 233,
+      "series": "fear",
+      "kind": "episode",
+      "season": 7,
+      "episode": 16,
+      "title": "Gone",
+      "fanYear": 2014,
+      "arc": "Louisiana Beaches"
+    },
+    {
+      "n": 234,
+      "series": "tales",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "Amy/Dr. Everett",
+      "fanYear": 2020,
+      "arc": "Wiregrass Ranger Station"
+    },
+    {
+      "n": 235,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "Brave",
+      "fanYear": 2020,
+      "arc": "Omaha Campus Colony"
+    },
+    {
+      "n": 236,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "The Blaze of Gory",
+      "fanYear": 2020,
+      "arc": "Nebraska"
+    },
+    {
+      "n": 237,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "The Tyger and the Lamb",
+      "fanYear": 2020,
+      "arc": "Nebraska"
+    },
+    {
+      "n": 238,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "The Wrong End of a Telescope",
+      "fanYear": 2020,
+      "arc": "Iowa"
+    },
+    {
+      "n": 239,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Madman Across the Water",
+      "fanYear": 2020,
+      "arc": "Iowa"
+    },
+    {
+      "n": 240,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "Shadow Puppets",
+      "fanYear": 2020,
+      "arc": "Illinois"
+    },
+    {
+      "n": 241,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 7,
+      "title": "Truth or Dare",
+      "fanYear": 2020,
+      "arc": "Illinois"
+    },
+    {
+      "n": 242,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 8,
+      "title": "The Sky Is a Graveyard",
+      "fanYear": 2020,
+      "arc": "Illinois"
+    },
+    {
+      "n": 243,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 9,
+      "title": "The Deepest Cut",
+      "fanYear": 2020,
+      "arc": "New York"
+    },
+    {
+      "n": 244,
+      "series": "wb",
+      "kind": "episode",
+      "season": 1,
+      "episode": 10,
+      "title": "In This Life",
+      "fanYear": 2020,
+      "arc": "New York"
+    },
+    {
+      "n": 245,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 1,
+      "title": "Konsekans",
+      "fanYear": 2020,
+      "arc": "Albany, New York"
+    },
+    {
+      "n": 246,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 2,
+      "title": "Foothold",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 247,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 3,
+      "title": "Exit Wounds",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 248,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 4,
+      "title": "Family Is a Four Letter Word",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 249,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 5,
+      "title": "Quatervois",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 250,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 6,
+      "title": "Who Are You?",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 251,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 7,
+      "title": "Blood and Lies",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 252,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 8,
+      "title": "Returning Point",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 253,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 9,
+      "title": "Death and the Dead",
+      "fanYear": 2020,
+      "arc": "Civic Republic Research Facility"
+    },
+    {
+      "n": 254,
+      "series": "wb",
+      "kind": "episode",
+      "season": 2,
+      "episode": 10,
+      "title": "The Last Light",
+      "fanYear": 2020,
+      "arc": "Ithaca, New York"
+    },
+    {
+      "n": 255,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 6,
+      "title": "Who Are You Now?",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 256,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 7,
+      "title": "Stradivarius",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 257,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 8,
+      "title": "Evolution",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 258,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 9,
+      "title": "Adaptation",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 259,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 10,
+      "title": "Omega",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 260,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 11,
+      "title": "Bounty",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 261,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 12,
+      "title": "Guardians",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 262,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 13,
+      "title": "Chokepoint",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 263,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 14,
+      "title": "Scars",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 264,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 15,
+      "title": "The Calm Before",
+      "fanYear": 2020,
+      "arc": "Virginia Coalition vs. The Whisperers"
+    },
+    {
+      "n": 265,
+      "series": "twd",
+      "kind": "episode",
+      "season": 9,
+      "episode": 16,
+      "title": "The Storm",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 266,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 1,
+      "title": "Lines We Cross",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 267,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 2,
+      "title": "We Are the End of the World",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 268,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 3,
+      "title": "Ghosts",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 269,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 4,
+      "title": "Silence the Whisperers",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 270,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 5,
+      "title": "What It Always Is",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 271,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 6,
+      "title": "Bonds",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 272,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 7,
+      "title": "Open Your Eyes",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 273,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 8,
+      "title": "The World Before",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 274,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 9,
+      "title": "Squeeze",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 275,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 10,
+      "title": "Stalker",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 276,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 11,
+      "title": "Morning Star",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 277,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 12,
+      "title": "Walk With Us",
+      "fanYear": 2021,
+      "arc": "The Whisperer War"
+    },
+    {
+      "n": 278,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 13,
+      "title": "What We Become",
+      "fanYear": 2021,
+      "arc": "Bloodsworth Island, Maryland"
+    },
+    {
+      "n": 279,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 14,
+      "title": "Look at the Flowers",
+      "fanYear": 2021,
+      "arc": "Rural Virginia and Mid-Atlantic City"
+    },
+    {
+      "n": 280,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 15,
+      "title": "The Tower",
+      "fanYear": 2021,
+      "arc": "Rural Virginia and Mid-Atlantic City"
+    },
+    {
+      "n": 281,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 16,
+      "title": "A Certain Doom",
+      "fanYear": 2021,
+      "arc": "Rural Virginia Hospital"
+    },
+    {
+      "n": 282,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 17,
+      "title": "Home Sweet Home",
+      "fanYear": 2021,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 283,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 18,
+      "title": "Find Me",
+      "fanYear": 2021,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 284,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 19,
+      "title": "One More",
+      "fanYear": 2021,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 285,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 20,
+      "title": "Splinter",
+      "fanYear": 2021,
+      "arc": "West Virginia Train Yard"
+    },
+    {
+      "n": 286,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 21,
+      "title": "Diverged",
+      "fanYear": 2021,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 287,
+      "series": "twd",
+      "kind": "episode",
+      "season": 10,
+      "episode": 22,
+      "title": "Here's Negan",
+      "fanYear": 2021,
+      "arc": "Rural Virginia"
+    },
+    {
+      "n": 288,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 1,
+      "title": "Acheron: Part I",
+      "fanYear": 2021,
+      "arc": "Washington D.C. Subway Tunnel"
+    },
+    {
+      "n": 289,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 2,
+      "title": "Acheron: Part II",
+      "fanYear": 2021,
+      "arc": "Washington D.C. Subway Tunnel"
+    },
+    {
+      "n": 290,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 3,
+      "title": "Hunted",
+      "fanYear": 2021,
+      "arc": "The Reapers War"
+    },
+    {
+      "n": 291,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 4,
+      "title": "Rendition",
+      "fanYear": 2021,
+      "arc": "The Reapers War"
+    },
+    {
+      "n": 292,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 5,
+      "title": "Out of the Ashes",
+      "fanYear": 2021,
+      "arc": "The Reapers War and The Commonwealth, Ohio"
+    },
+    {
+      "n": 293,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 6,
+      "title": "On the Inside",
+      "fanYear": 2021,
+      "arc": "The Reapers War and The Commonwealth, Ohio"
+    },
+    {
+      "n": 294,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 7,
+      "title": "Promises Broken",
+      "fanYear": 2021,
+      "arc": "The Reapers War and The Commonwealth, Ohio"
+    },
+    {
+      "n": 295,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 8,
+      "title": "For Blood",
+      "fanYear": 2021,
+      "arc": "The Reapers War and The Commonwealth, Ohio"
+    },
+    {
+      "n": 296,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 9,
+      "title": "No Other Way",
+      "fanYear": 2021,
+      "arc": "The Reapers War and The Commonwealth, Ohio"
+    },
+    {
+      "n": 297,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 10,
+      "title": "New Haunts",
+      "fanYear": 2021,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 298,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 11,
+      "title": "Rogue Element",
+      "fanYear": 2021,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 299,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 12,
+      "title": "The Lucky Ones",
+      "fanYear": 2021,
+      "arc": "Virginia Coalition and The Commonwealth, Ohio"
+    },
+    {
+      "n": 300,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 1,
+      "title": "Remember What They Took From You",
+      "fanYear": 2022,
+      "arc": "PADRE, Georgia"
+    },
+    {
+      "n": 301,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 2,
+      "title": "Blue Jay",
+      "fanYear": 2022,
+      "arc": "Georgia Wilds"
+    },
+    {
+      "n": 302,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 3,
+      "title": "Odessa",
+      "fanYear": 2022,
+      "arc": "Georgia Wilds"
+    },
+    {
+      "n": 303,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 4,
+      "title": "King County",
+      "fanYear": 2022,
+      "arc": "King County Revisited"
+    },
+    {
+      "n": 304,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 5,
+      "title": "More Time Than You Know",
+      "fanYear": 2022,
+      "arc": "Georgia Wilds"
+    },
+    {
+      "n": 305,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 6,
+      "title": "All I See Is Red",
+      "fanYear": 2022,
+      "arc": "Georgia Wilds"
+    },
+    {
+      "n": 306,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 7,
+      "title": "Anton",
+      "fanYear": 2022,
+      "arc": "Emissary Suites and Georgia Wilds"
+    },
+    {
+      "n": 307,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 8,
+      "title": "Iron Tiger",
+      "fanYear": 2022,
+      "arc": "Emissary Suites and Georgia Wilds"
+    },
+    {
+      "n": 308,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 9,
+      "title": "Sanctuary",
+      "fanYear": 2022,
+      "arc": "The Sanctuary, Virginia"
+    },
+    {
+      "n": 309,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 10,
+      "title": "Keeping Her Alive",
+      "fanYear": 2022,
+      "arc": "Georgia Wilds"
+    },
+    {
+      "n": 310,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 11,
+      "title": "Fighting Like You",
+      "fanYear": 2022,
+      "arc": "PADRE, Georgia and Georgia Wilds"
+    },
+    {
+      "n": 311,
+      "series": "fear",
+      "kind": "episode",
+      "season": 8,
+      "episode": 12,
+      "title": "The Road Ahead",
+      "fanYear": 2022,
+      "arc": "PADRE, Georgia and Georgia Wilds"
+    },
+    {
+      "n": 312,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 13,
+      "title": "Warlords",
+      "fanYear": 2022,
+      "arc": "Riverbend Apartment Complex"
+    },
+    {
+      "n": 313,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 14,
+      "title": "The Rotten Core",
+      "fanYear": 2022,
+      "arc": "Riverbend Apartment Complex"
+    },
+    {
+      "n": 314,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 15,
+      "title": "Trust",
+      "fanYear": 2022,
+      "arc": "Virginia Coalition vs. The Commonwealth, Ohio"
+    },
+    {
+      "n": 315,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 16,
+      "title": "Acts of God",
+      "fanYear": 2022,
+      "arc": "Virginia Coalition vs. The Commonwealth, Ohio"
+    },
+    {
+      "n": 316,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 17,
+      "title": "Lockdown",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 317,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 18,
+      "title": "A New Deal",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 318,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 19,
+      "title": "Variant",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 319,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 20,
+      "title": "What's Been Lost",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 320,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 21,
+      "title": "Outpost 22",
+      "fanYear": 2022,
+      "arc": "Ohio/Virginia Wilds"
+    },
+    {
+      "n": 321,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 22,
+      "title": "Faith",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 322,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 23,
+      "title": "Family",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 323,
+      "series": "twd",
+      "kind": "episode",
+      "season": 11,
+      "episode": 24,
+      "title": "Rest in Peace",
+      "fanYear": 2022,
+      "arc": "The Commonwealth, Ohio"
+    },
+    {
+      "n": 324,
+      "series": "towl",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "Years",
+      "fanYear": 2022,
+      "arc": "Civic Republic of Philadelphia"
+    },
+    {
+      "n": 325,
+      "series": "towl",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "Gone",
+      "fanYear": 2022,
+      "arc": "Civic Republic of Philadelphia"
+    },
+    {
+      "n": 326,
+      "series": "towl",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "Bye",
+      "fanYear": 2022,
+      "arc": "Civic Republic of Philadelphia"
+    },
+    {
+      "n": 327,
+      "series": "towl",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "What We",
+      "fanYear": 2022,
+      "arc": "Greenwood"
+    },
+    {
+      "n": 328,
+      "series": "towl",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Become",
+      "fanYear": 2022,
+      "arc": "Yellowstone National Park, Wyoming"
+    },
+    {
+      "n": 329,
+      "series": "towl",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "The Last Time",
+      "fanYear": 2022,
+      "arc": "Cascadia Forward Operating Base"
+    },
+    {
+      "n": 330,
+      "series": "dd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "L'âme Perdue",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 331,
+      "series": "dd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "Alouette",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 332,
+      "series": "dd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "Paris Sera Toujours Paris",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 333,
+      "series": "dd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "La Dame de Fer",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 334,
+      "series": "dd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Deux Amours",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 335,
+      "series": "dd",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "Coming Home",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 336,
+      "series": "dd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 1,
+      "title": "La Gentillesse Des Étrangers",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 337,
+      "series": "dd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 2,
+      "title": "Moulin Rouge",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 338,
+      "series": "dd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 3,
+      "title": "L'Invisible",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 339,
+      "series": "dd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 4,
+      "title": "Le Paradis Pour Toi",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 340,
+      "series": "dd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 5,
+      "title": "Vouloir, C'est Pouvoir",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 341,
+      "series": "dd",
+      "kind": "episode",
+      "season": 2,
+      "episode": 6,
+      "title": "Au Revoir Les Enfants",
+      "fanYear": 2023,
+      "arc": "France"
+    },
+    {
+      "n": 342,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 1,
+      "title": "Costa Da Morte",
+      "fanYear": 2023,
+      "arc": "United Kingdom"
+    },
+    {
+      "n": 343,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 2,
+      "title": "La Ofrenda",
+      "fanYear": 2023,
+      "arc": "Spain"
+    },
+    {
+      "n": 344,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 3,
+      "title": "El Sacrificio",
+      "fanYear": 2023,
+      "arc": "Spain"
+    },
+    {
+      "n": 345,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 4,
+      "title": "La Justicia Fronteriza",
+      "fanYear": 2023,
+      "arc": "Spain"
+    },
+    {
+      "n": 346,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 5,
+      "title": "Limbo",
+      "fanYear": 2023,
+      "arc": "Spain"
+    },
+    {
+      "n": 347,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 6,
+      "title": "Contrabando",
+      "fanYear": 2023,
+      "arc": "Spain"
+    },
+    {
+      "n": 348,
+      "series": "dd",
+      "kind": "episode",
+      "season": 3,
+      "episode": 7,
+      "title": "Solaz del Mar",
+      "fanYear": 2023,
+      "arc": "Spain"
+    },
+    {
+      "n": 349,
+      "series": "tales",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Davon",
+      "fanYear": 2025,
+      "arc": "Mystery in Madawaska, Maine"
+    },
+    {
+      "n": 350,
+      "series": "dc",
+      "kind": "episode",
+      "season": 1,
+      "episode": 1,
+      "title": "Old Acquaintances",
+      "fanYear": 2027,
+      "arc": "New York City"
+    },
+    {
+      "n": 351,
+      "series": "dc",
+      "kind": "episode",
+      "season": 1,
+      "episode": 2,
+      "title": "Who's There?",
+      "fanYear": 2027,
+      "arc": "New York City"
+    },
+    {
+      "n": 352,
+      "series": "dc",
+      "kind": "episode",
+      "season": 1,
+      "episode": 3,
+      "title": "People Are a Resource",
+      "fanYear": 2027,
+      "arc": "New York City"
+    },
+    {
+      "n": 353,
+      "series": "dc",
+      "kind": "episode",
+      "season": 1,
+      "episode": 4,
+      "title": "Everybody Wins a Prize",
+      "fanYear": 2027,
+      "arc": "New York City"
+    },
+    {
+      "n": 354,
+      "series": "dc",
+      "kind": "episode",
+      "season": 1,
+      "episode": 5,
+      "title": "Stories We Tell Ourselves",
+      "fanYear": 2027,
+      "arc": "New York City"
+    },
+    {
+      "n": 355,
+      "series": "dc",
+      "kind": "episode",
+      "season": 1,
+      "episode": 6,
+      "title": "Doma Smo",
+      "fanYear": 2027,
+      "arc": "New York City"
+    },
+    {
+      "n": 356,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 1,
+      "title": "Power Equals Power",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 357,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 2,
+      "title": "Another Shitty Lesson",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 358,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 3,
+      "title": "Why Did the Mainlanders Cross the River?",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 359,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 4,
+      "title": "Feisty Friendly",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 360,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 5,
+      "title": "The Bird Always Knows",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 361,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 6,
+      "title": "Bridge Partners Are Hard to Come by These Days",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 362,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 7,
+      "title": "Novi Dan, Novi Početak",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": 363,
+      "series": "dc",
+      "kind": "episode",
+      "season": 2,
+      "episode": 8,
+      "title": "If History Were a Conflagration",
+      "fanYear": 2028,
+      "arc": "New York City"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 1,
+      "title": "Trillium",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 2,
+      "title": "Haven",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 3,
+      "title": "Emigrants",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 4,
+      "title": "Found/Lost",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 5,
+      "title": "Imperialis",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 6,
+      "title": "Genesis",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 7,
+      "title": "Hourglass",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    },
+    {
+      "n": null,
+      "series": "dc",
+      "kind": "episode",
+      "season": 3,
+      "episode": 8,
+      "title": "Tenebrae",
+      "fanYear": 2028,
+      "arc": "New York City (appended; not in Fandom list)"
+    }
+  ],
+  "fandomEpisodeOrderSource": "https://walkingdead.fandom.com/wiki/Chronological_Episode_Order",
+  "fandomEpisodeOrderNote": "363 entries parsed from the Fandom page (fetched 2026-10-13); Dead City S3 (8 eps) appended with n=null from the Fandom Dead City Timeline. Daryl Dixon S4 not aired."
+}

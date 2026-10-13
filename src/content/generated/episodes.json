@@ -1,0 +1,3671 @@
+{
+  "generatedAt": "2026-10-13T18:57:02.727Z",
+  "cutoff": "2026-10-13",
+  "license": "Metadados de episódios: TVmaze (CC BY-SA 4.0). Contagens conferidas com a Wikipedia (CC BY-SA 4.0).",
+  "note": "slotRuntime é a duração da faixa de exibição informada pelo TVmaze (inclui intervalos comerciais); não é a duração exata do episódio.",
+  "warnings": [],
+  "series": [
+    {
+      "id": "twd",
+      "tvmazeId": 73,
+      "tvmazeName": "The Walking Dead",
+      "status": "Ended",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/73/the-walking-dead",
+        "https://en.wikipedia.org/wiki/List_of_The_Walking_Dead_episodes"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        },
+        "2": {
+          "tvmaze": 13,
+          "wikipedia": 13,
+          "match": true
+        },
+        "3": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "4": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "5": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "6": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "7": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "8": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "9": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "10": {
+          "tvmaze": 22,
+          "wikipedia": 22,
+          "match": true
+        },
+        "11": {
+          "tvmaze": 24,
+          "wikipedia": 24,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "twd-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "Days Gone Bye",
+              "airdate": "2010-10-31",
+              "slotRuntime": 60,
+              "tvmazeId": 4095
+            },
+            {
+              "id": "twd-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "Guts",
+              "airdate": "2010-11-07",
+              "slotRuntime": 60,
+              "tvmazeId": 4096
+            },
+            {
+              "id": "twd-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "Tell It to the Frogs",
+              "airdate": "2010-11-14",
+              "slotRuntime": 60,
+              "tvmazeId": 4097
+            },
+            {
+              "id": "twd-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "Vatos",
+              "airdate": "2010-11-21",
+              "slotRuntime": 60,
+              "tvmazeId": 4098
+            },
+            {
+              "id": "twd-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Wildfire",
+              "airdate": "2010-11-28",
+              "slotRuntime": 60,
+              "tvmazeId": 4099
+            },
+            {
+              "id": "twd-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "TS-19",
+              "airdate": "2010-12-05",
+              "slotRuntime": 60,
+              "tvmazeId": 4100
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "twd-s02e01",
+              "season": 2,
+              "number": 1,
+              "titleOriginal": "What Lies Ahead",
+              "airdate": "2011-10-16",
+              "slotRuntime": 60,
+              "tvmazeId": 4101
+            },
+            {
+              "id": "twd-s02e02",
+              "season": 2,
+              "number": 2,
+              "titleOriginal": "Bloodletting",
+              "airdate": "2011-10-23",
+              "slotRuntime": 60,
+              "tvmazeId": 4102
+            },
+            {
+              "id": "twd-s02e03",
+              "season": 2,
+              "number": 3,
+              "titleOriginal": "Save the Last One",
+              "airdate": "2011-10-30",
+              "slotRuntime": 60,
+              "tvmazeId": 4103
+            },
+            {
+              "id": "twd-s02e04",
+              "season": 2,
+              "number": 4,
+              "titleOriginal": "Cherokee Rose",
+              "airdate": "2011-11-06",
+              "slotRuntime": 60,
+              "tvmazeId": 4104
+            },
+            {
+              "id": "twd-s02e05",
+              "season": 2,
+              "number": 5,
+              "titleOriginal": "Chupacabra",
+              "airdate": "2011-11-13",
+              "slotRuntime": 60,
+              "tvmazeId": 4105
+            },
+            {
+              "id": "twd-s02e06",
+              "season": 2,
+              "number": 6,
+              "titleOriginal": "Secrets",
+              "airdate": "2011-11-20",
+              "slotRuntime": 60,
+              "tvmazeId": 4106
+            },
+            {
+              "id": "twd-s02e07",
+              "season": 2,
+              "number": 7,
+              "titleOriginal": "Pretty Much Dead Already",
+              "airdate": "2011-11-27",
+              "slotRuntime": 60,
+              "tvmazeId": 4107
+            },
+            {
+              "id": "twd-s02e08",
+              "season": 2,
+              "number": 8,
+              "titleOriginal": "Nebraska",
+              "airdate": "2012-02-12",
+              "slotRuntime": 60,
+              "tvmazeId": 4108
+            },
+            {
+              "id": "twd-s02e09",
+              "season": 2,
+              "number": 9,
+              "titleOriginal": "Triggerfinger",
+              "airdate": "2012-02-19",
+              "slotRuntime": 60,
+              "tvmazeId": 4109
+            },
+            {
+              "id": "twd-s02e10",
+              "season": 2,
+              "number": 10,
+              "titleOriginal": "18 Miles Out",
+              "airdate": "2012-02-26",
+              "slotRuntime": 60,
+              "tvmazeId": 4110
+            },
+            {
+              "id": "twd-s02e11",
+              "season": 2,
+              "number": 11,
+              "titleOriginal": "Judge, Jury, Executioner",
+              "airdate": "2012-03-04",
+              "slotRuntime": 60,
+              "tvmazeId": 4111
+            },
+            {
+              "id": "twd-s02e12",
+              "season": 2,
+              "number": 12,
+              "titleOriginal": "Better Angels",
+              "airdate": "2012-03-11",
+              "slotRuntime": 60,
+              "tvmazeId": 4112
+            },
+            {
+              "id": "twd-s02e13",
+              "season": 2,
+              "number": 13,
+              "titleOriginal": "Beside the Dying Fire",
+              "airdate": "2012-03-18",
+              "slotRuntime": 60,
+              "tvmazeId": 4113
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "twd-s03e01",
+              "season": 3,
+              "number": 1,
+              "titleOriginal": "Seed",
+              "airdate": "2012-10-14",
+              "slotRuntime": 60,
+              "tvmazeId": 4114
+            },
+            {
+              "id": "twd-s03e02",
+              "season": 3,
+              "number": 2,
+              "titleOriginal": "Sick",
+              "airdate": "2012-10-21",
+              "slotRuntime": 60,
+              "tvmazeId": 4115
+            },
+            {
+              "id": "twd-s03e03",
+              "season": 3,
+              "number": 3,
+              "titleOriginal": "Walk with Me",
+              "airdate": "2012-10-28",
+              "slotRuntime": 60,
+              "tvmazeId": 4116
+            },
+            {
+              "id": "twd-s03e04",
+              "season": 3,
+              "number": 4,
+              "titleOriginal": "Killer Within",
+              "airdate": "2012-11-04",
+              "slotRuntime": 60,
+              "tvmazeId": 4117
+            },
+            {
+              "id": "twd-s03e05",
+              "season": 3,
+              "number": 5,
+              "titleOriginal": "Say the Word",
+              "airdate": "2012-11-11",
+              "slotRuntime": 60,
+              "tvmazeId": 4118
+            },
+            {
+              "id": "twd-s03e06",
+              "season": 3,
+              "number": 6,
+              "titleOriginal": "Hounded",
+              "airdate": "2012-11-18",
+              "slotRuntime": 60,
+              "tvmazeId": 4119
+            },
+            {
+              "id": "twd-s03e07",
+              "season": 3,
+              "number": 7,
+              "titleOriginal": "When the Dead Come Knocking",
+              "airdate": "2012-11-25",
+              "slotRuntime": 60,
+              "tvmazeId": 4120
+            },
+            {
+              "id": "twd-s03e08",
+              "season": 3,
+              "number": 8,
+              "titleOriginal": "Made to Suffer",
+              "airdate": "2012-12-02",
+              "slotRuntime": 60,
+              "tvmazeId": 4121
+            },
+            {
+              "id": "twd-s03e09",
+              "season": 3,
+              "number": 9,
+              "titleOriginal": "The Suicide King",
+              "airdate": "2013-02-10",
+              "slotRuntime": 60,
+              "tvmazeId": 4122
+            },
+            {
+              "id": "twd-s03e10",
+              "season": 3,
+              "number": 10,
+              "titleOriginal": "Home",
+              "airdate": "2013-02-17",
+              "slotRuntime": 60,
+              "tvmazeId": 4123
+            },
+            {
+              "id": "twd-s03e11",
+              "season": 3,
+              "number": 11,
+              "titleOriginal": "I Ain't a Judas",
+              "airdate": "2013-02-24",
+              "slotRuntime": 60,
+              "tvmazeId": 4124
+            },
+            {
+              "id": "twd-s03e12",
+              "season": 3,
+              "number": 12,
+              "titleOriginal": "Clear",
+              "airdate": "2013-03-03",
+              "slotRuntime": 60,
+              "tvmazeId": 4125
+            },
+            {
+              "id": "twd-s03e13",
+              "season": 3,
+              "number": 13,
+              "titleOriginal": "Arrow on the Doorpost",
+              "airdate": "2013-03-10",
+              "slotRuntime": 60,
+              "tvmazeId": 4126
+            },
+            {
+              "id": "twd-s03e14",
+              "season": 3,
+              "number": 14,
+              "titleOriginal": "Prey",
+              "airdate": "2013-03-17",
+              "slotRuntime": 60,
+              "tvmazeId": 4127
+            },
+            {
+              "id": "twd-s03e15",
+              "season": 3,
+              "number": 15,
+              "titleOriginal": "This Sorrowful Life",
+              "airdate": "2013-03-24",
+              "slotRuntime": 60,
+              "tvmazeId": 4128
+            },
+            {
+              "id": "twd-s03e16",
+              "season": 3,
+              "number": 16,
+              "titleOriginal": "Welcome to the Tombs",
+              "airdate": "2013-03-31",
+              "slotRuntime": 60,
+              "tvmazeId": 4129
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "id": "twd-s04e01",
+              "season": 4,
+              "number": 1,
+              "titleOriginal": "30 Days Without an Accident",
+              "airdate": "2013-10-13",
+              "slotRuntime": 60,
+              "tvmazeId": 4130
+            },
+            {
+              "id": "twd-s04e02",
+              "season": 4,
+              "number": 2,
+              "titleOriginal": "Infected",
+              "airdate": "2013-10-20",
+              "slotRuntime": 60,
+              "tvmazeId": 4131
+            },
+            {
+              "id": "twd-s04e03",
+              "season": 4,
+              "number": 3,
+              "titleOriginal": "Isolation",
+              "airdate": "2013-10-27",
+              "slotRuntime": 60,
+              "tvmazeId": 4132
+            },
+            {
+              "id": "twd-s04e04",
+              "season": 4,
+              "number": 4,
+              "titleOriginal": "Indifference",
+              "airdate": "2013-11-03",
+              "slotRuntime": 60,
+              "tvmazeId": 4133
+            },
+            {
+              "id": "twd-s04e05",
+              "season": 4,
+              "number": 5,
+              "titleOriginal": "Internment",
+              "airdate": "2013-11-10",
+              "slotRuntime": 60,
+              "tvmazeId": 4134
+            },
+            {
+              "id": "twd-s04e06",
+              "season": 4,
+              "number": 6,
+              "titleOriginal": "Live Bait",
+              "airdate": "2013-11-17",
+              "slotRuntime": 60,
+              "tvmazeId": 4135
+            },
+            {
+              "id": "twd-s04e07",
+              "season": 4,
+              "number": 7,
+              "titleOriginal": "Dead Weight",
+              "airdate": "2013-11-24",
+              "slotRuntime": 60,
+              "tvmazeId": 4136
+            },
+            {
+              "id": "twd-s04e08",
+              "season": 4,
+              "number": 8,
+              "titleOriginal": "Too Far Gone",
+              "airdate": "2013-12-01",
+              "slotRuntime": 60,
+              "tvmazeId": 4137
+            },
+            {
+              "id": "twd-s04e09",
+              "season": 4,
+              "number": 9,
+              "titleOriginal": "After",
+              "airdate": "2014-02-09",
+              "slotRuntime": 60,
+              "tvmazeId": 4138
+            },
+            {
+              "id": "twd-s04e10",
+              "season": 4,
+              "number": 10,
+              "titleOriginal": "Inmates",
+              "airdate": "2014-02-16",
+              "slotRuntime": 60,
+              "tvmazeId": 4139
+            },
+            {
+              "id": "twd-s04e11",
+              "season": 4,
+              "number": 11,
+              "titleOriginal": "Claimed",
+              "airdate": "2014-02-23",
+              "slotRuntime": 60,
+              "tvmazeId": 4140
+            },
+            {
+              "id": "twd-s04e12",
+              "season": 4,
+              "number": 12,
+              "titleOriginal": "Still",
+              "airdate": "2014-03-02",
+              "slotRuntime": 60,
+              "tvmazeId": 4141
+            },
+            {
+              "id": "twd-s04e13",
+              "season": 4,
+              "number": 13,
+              "titleOriginal": "Alone",
+              "airdate": "2014-03-09",
+              "slotRuntime": 60,
+              "tvmazeId": 4142
+            },
+            {
+              "id": "twd-s04e14",
+              "season": 4,
+              "number": 14,
+              "titleOriginal": "The Grove",
+              "airdate": "2014-03-16",
+              "slotRuntime": 60,
+              "tvmazeId": 4143
+            },
+            {
+              "id": "twd-s04e15",
+              "season": 4,
+              "number": 15,
+              "titleOriginal": "Us",
+              "airdate": "2014-03-23",
+              "slotRuntime": 60,
+              "tvmazeId": 4144
+            },
+            {
+              "id": "twd-s04e16",
+              "season": 4,
+              "number": 16,
+              "titleOriginal": "A",
+              "airdate": "2014-03-30",
+              "slotRuntime": 60,
+              "tvmazeId": 4145
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "id": "twd-s05e01",
+              "season": 5,
+              "number": 1,
+              "titleOriginal": "No Sanctuary",
+              "airdate": "2014-10-12",
+              "slotRuntime": 60,
+              "tvmazeId": 4146
+            },
+            {
+              "id": "twd-s05e02",
+              "season": 5,
+              "number": 2,
+              "titleOriginal": "Strangers",
+              "airdate": "2014-10-19",
+              "slotRuntime": 60,
+              "tvmazeId": 4147
+            },
+            {
+              "id": "twd-s05e03",
+              "season": 5,
+              "number": 3,
+              "titleOriginal": "Four Walls and a Roof",
+              "airdate": "2014-10-26",
+              "slotRuntime": 60,
+              "tvmazeId": 4148
+            },
+            {
+              "id": "twd-s05e04",
+              "season": 5,
+              "number": 4,
+              "titleOriginal": "Slabtown",
+              "airdate": "2014-11-02",
+              "slotRuntime": 60,
+              "tvmazeId": 14103
+            },
+            {
+              "id": "twd-s05e05",
+              "season": 5,
+              "number": 5,
+              "titleOriginal": "Self Help",
+              "airdate": "2014-11-09",
+              "slotRuntime": 60,
+              "tvmazeId": 15852
+            },
+            {
+              "id": "twd-s05e06",
+              "season": 5,
+              "number": 6,
+              "titleOriginal": "Consumed",
+              "airdate": "2014-11-16",
+              "slotRuntime": 60,
+              "tvmazeId": 15853
+            },
+            {
+              "id": "twd-s05e07",
+              "season": 5,
+              "number": 7,
+              "titleOriginal": "Crossed",
+              "airdate": "2014-11-23",
+              "slotRuntime": 60,
+              "tvmazeId": 15854
+            },
+            {
+              "id": "twd-s05e08",
+              "season": 5,
+              "number": 8,
+              "titleOriginal": "Coda",
+              "airdate": "2014-11-30",
+              "slotRuntime": 60,
+              "tvmazeId": 15855
+            },
+            {
+              "id": "twd-s05e09",
+              "season": 5,
+              "number": 9,
+              "titleOriginal": "What Happened and What's Going On",
+              "airdate": "2015-02-08",
+              "slotRuntime": 60,
+              "tvmazeId": 15856
+            },
+            {
+              "id": "twd-s05e10",
+              "season": 5,
+              "number": 10,
+              "titleOriginal": "Them",
+              "airdate": "2015-02-15",
+              "slotRuntime": 60,
+              "tvmazeId": 15857
+            },
+            {
+              "id": "twd-s05e11",
+              "season": 5,
+              "number": 11,
+              "titleOriginal": "The Distance",
+              "airdate": "2015-02-22",
+              "slotRuntime": 60,
+              "tvmazeId": 15858
+            },
+            {
+              "id": "twd-s05e12",
+              "season": 5,
+              "number": 12,
+              "titleOriginal": "Remember",
+              "airdate": "2015-03-01",
+              "slotRuntime": 60,
+              "tvmazeId": 15859
+            },
+            {
+              "id": "twd-s05e13",
+              "season": 5,
+              "number": 13,
+              "titleOriginal": "Forget",
+              "airdate": "2015-03-08",
+              "slotRuntime": 60,
+              "tvmazeId": 15860
+            },
+            {
+              "id": "twd-s05e14",
+              "season": 5,
+              "number": 14,
+              "titleOriginal": "Spend",
+              "airdate": "2015-03-15",
+              "slotRuntime": 60,
+              "tvmazeId": 15861
+            },
+            {
+              "id": "twd-s05e15",
+              "season": 5,
+              "number": 15,
+              "titleOriginal": "Try",
+              "airdate": "2015-03-22",
+              "slotRuntime": 60,
+              "tvmazeId": 15862
+            },
+            {
+              "id": "twd-s05e16",
+              "season": 5,
+              "number": 16,
+              "titleOriginal": "Conquer",
+              "airdate": "2015-03-29",
+              "slotRuntime": 60,
+              "tvmazeId": 15863
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "episodes": [
+            {
+              "id": "twd-s06e01",
+              "season": 6,
+              "number": 1,
+              "titleOriginal": "First Time Again",
+              "airdate": "2015-10-11",
+              "slotRuntime": 90,
+              "tvmazeId": 185066
+            },
+            {
+              "id": "twd-s06e02",
+              "season": 6,
+              "number": 2,
+              "titleOriginal": "JSS",
+              "airdate": "2015-10-18",
+              "slotRuntime": 60,
+              "tvmazeId": 185067
+            },
+            {
+              "id": "twd-s06e03",
+              "season": 6,
+              "number": 3,
+              "titleOriginal": "Thank You",
+              "airdate": "2015-10-25",
+              "slotRuntime": 60,
+              "tvmazeId": 185068
+            },
+            {
+              "id": "twd-s06e04",
+              "season": 6,
+              "number": 4,
+              "titleOriginal": "Here's Not Here",
+              "airdate": "2015-11-01",
+              "slotRuntime": 90,
+              "tvmazeId": 185069
+            },
+            {
+              "id": "twd-s06e05",
+              "season": 6,
+              "number": 5,
+              "titleOriginal": "Now",
+              "airdate": "2015-11-08",
+              "slotRuntime": 60,
+              "tvmazeId": 185070
+            },
+            {
+              "id": "twd-s06e06",
+              "season": 6,
+              "number": 6,
+              "titleOriginal": "Always Accountable",
+              "airdate": "2015-11-15",
+              "slotRuntime": 60,
+              "tvmazeId": 185071
+            },
+            {
+              "id": "twd-s06e07",
+              "season": 6,
+              "number": 7,
+              "titleOriginal": "Heads Up",
+              "airdate": "2015-11-22",
+              "slotRuntime": 60,
+              "tvmazeId": 185072
+            },
+            {
+              "id": "twd-s06e08",
+              "season": 6,
+              "number": 8,
+              "titleOriginal": "Start to Finish",
+              "airdate": "2015-11-29",
+              "slotRuntime": 60,
+              "tvmazeId": 185073
+            },
+            {
+              "id": "twd-s06e09",
+              "season": 6,
+              "number": 9,
+              "titleOriginal": "No Way Out",
+              "airdate": "2016-02-14",
+              "slotRuntime": 60,
+              "tvmazeId": 384350
+            },
+            {
+              "id": "twd-s06e10",
+              "season": 6,
+              "number": 10,
+              "titleOriginal": "The Next World",
+              "airdate": "2016-02-21",
+              "slotRuntime": 60,
+              "tvmazeId": 483068
+            },
+            {
+              "id": "twd-s06e11",
+              "season": 6,
+              "number": 11,
+              "titleOriginal": "Knots Untie",
+              "airdate": "2016-02-28",
+              "slotRuntime": 60,
+              "tvmazeId": 483069
+            },
+            {
+              "id": "twd-s06e12",
+              "season": 6,
+              "number": 12,
+              "titleOriginal": "Not Tomorrow Yet",
+              "airdate": "2016-03-06",
+              "slotRuntime": 60,
+              "tvmazeId": 628794
+            },
+            {
+              "id": "twd-s06e13",
+              "season": 6,
+              "number": 13,
+              "titleOriginal": "The Same Boat",
+              "airdate": "2016-03-13",
+              "slotRuntime": 60,
+              "tvmazeId": 638714
+            },
+            {
+              "id": "twd-s06e14",
+              "season": 6,
+              "number": 14,
+              "titleOriginal": "Twice as Far",
+              "airdate": "2016-03-20",
+              "slotRuntime": 60,
+              "tvmazeId": 639987
+            },
+            {
+              "id": "twd-s06e15",
+              "season": 6,
+              "number": 15,
+              "titleOriginal": "East",
+              "airdate": "2016-03-27",
+              "slotRuntime": 60,
+              "tvmazeId": 639988
+            },
+            {
+              "id": "twd-s06e16",
+              "season": 6,
+              "number": 16,
+              "titleOriginal": "Last Day on Earth",
+              "airdate": "2016-04-03",
+              "slotRuntime": 90,
+              "tvmazeId": 639999
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "episodes": [
+            {
+              "id": "twd-s07e01",
+              "season": 7,
+              "number": 1,
+              "titleOriginal": "The Day Will Come When You Won't Be",
+              "airdate": "2016-10-23",
+              "slotRuntime": 60,
+              "tvmazeId": 707345
+            },
+            {
+              "id": "twd-s07e02",
+              "season": 7,
+              "number": 2,
+              "titleOriginal": "The Well",
+              "airdate": "2016-10-30",
+              "slotRuntime": 60,
+              "tvmazeId": 895793
+            },
+            {
+              "id": "twd-s07e03",
+              "season": 7,
+              "number": 3,
+              "titleOriginal": "The Cell",
+              "airdate": "2016-11-06",
+              "slotRuntime": 60,
+              "tvmazeId": 895794
+            },
+            {
+              "id": "twd-s07e04",
+              "season": 7,
+              "number": 4,
+              "titleOriginal": "Service",
+              "airdate": "2016-11-13",
+              "slotRuntime": 85,
+              "tvmazeId": 895795
+            },
+            {
+              "id": "twd-s07e05",
+              "season": 7,
+              "number": 5,
+              "titleOriginal": "Go Getters",
+              "airdate": "2016-11-20",
+              "slotRuntime": 60,
+              "tvmazeId": 895796
+            },
+            {
+              "id": "twd-s07e06",
+              "season": 7,
+              "number": 6,
+              "titleOriginal": "Swear",
+              "airdate": "2016-11-27",
+              "slotRuntime": 60,
+              "tvmazeId": 895797
+            },
+            {
+              "id": "twd-s07e07",
+              "season": 7,
+              "number": 7,
+              "titleOriginal": "Sing Me a Song",
+              "airdate": "2016-12-04",
+              "slotRuntime": 60,
+              "tvmazeId": 895798
+            },
+            {
+              "id": "twd-s07e08",
+              "season": 7,
+              "number": 8,
+              "titleOriginal": "Hearts Still Beating",
+              "airdate": "2016-12-11",
+              "slotRuntime": 60,
+              "tvmazeId": 895799
+            },
+            {
+              "id": "twd-s07e09",
+              "season": 7,
+              "number": 9,
+              "titleOriginal": "Rock in the Road",
+              "airdate": "2017-02-12",
+              "slotRuntime": 73,
+              "tvmazeId": 1013811
+            },
+            {
+              "id": "twd-s07e10",
+              "season": 7,
+              "number": 10,
+              "titleOriginal": "New Best Friends",
+              "airdate": "2017-02-19",
+              "slotRuntime": 60,
+              "tvmazeId": 1055161
+            },
+            {
+              "id": "twd-s07e11",
+              "season": 7,
+              "number": 11,
+              "titleOriginal": "Hostiles and Calamities",
+              "airdate": "2017-02-26",
+              "slotRuntime": 60,
+              "tvmazeId": 1063327
+            },
+            {
+              "id": "twd-s07e12",
+              "season": 7,
+              "number": 12,
+              "titleOriginal": "Say Yes",
+              "airdate": "2017-03-05",
+              "slotRuntime": 60,
+              "tvmazeId": 1063328
+            },
+            {
+              "id": "twd-s07e13",
+              "season": 7,
+              "number": 13,
+              "titleOriginal": "Bury Me Here",
+              "airdate": "2017-03-12",
+              "slotRuntime": 60,
+              "tvmazeId": 1063329
+            },
+            {
+              "id": "twd-s07e14",
+              "season": 7,
+              "number": 14,
+              "titleOriginal": "The Other Side",
+              "airdate": "2017-03-19",
+              "slotRuntime": 60,
+              "tvmazeId": 1063330
+            },
+            {
+              "id": "twd-s07e15",
+              "season": 7,
+              "number": 15,
+              "titleOriginal": "Something They Need",
+              "airdate": "2017-03-26",
+              "slotRuntime": 60,
+              "tvmazeId": 1063331
+            },
+            {
+              "id": "twd-s07e16",
+              "season": 7,
+              "number": 16,
+              "titleOriginal": "The First Day of the Rest of Your Life",
+              "airdate": "2017-04-02",
+              "slotRuntime": 60,
+              "tvmazeId": 1063332
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "episodes": [
+            {
+              "id": "twd-s08e01",
+              "season": 8,
+              "number": 1,
+              "titleOriginal": "Mercy",
+              "airdate": "2017-10-22",
+              "slotRuntime": 60,
+              "tvmazeId": 1254265
+            },
+            {
+              "id": "twd-s08e02",
+              "season": 8,
+              "number": 2,
+              "titleOriginal": "The Damned",
+              "airdate": "2017-10-29",
+              "slotRuntime": 60,
+              "tvmazeId": 1319895
+            },
+            {
+              "id": "twd-s08e03",
+              "season": 8,
+              "number": 3,
+              "titleOriginal": "Monsters",
+              "airdate": "2017-11-05",
+              "slotRuntime": 60,
+              "tvmazeId": 1320243
+            },
+            {
+              "id": "twd-s08e04",
+              "season": 8,
+              "number": 4,
+              "titleOriginal": "Some Guy",
+              "airdate": "2017-11-12",
+              "slotRuntime": 60,
+              "tvmazeId": 1335911
+            },
+            {
+              "id": "twd-s08e05",
+              "season": 8,
+              "number": 5,
+              "titleOriginal": "The Big Scary U",
+              "airdate": "2017-11-19",
+              "slotRuntime": 60,
+              "tvmazeId": 1335912
+            },
+            {
+              "id": "twd-s08e06",
+              "season": 8,
+              "number": 6,
+              "titleOriginal": "The King, the Widow, and Rick",
+              "airdate": "2017-11-26",
+              "slotRuntime": 60,
+              "tvmazeId": 1336334
+            },
+            {
+              "id": "twd-s08e07",
+              "season": 8,
+              "number": 7,
+              "titleOriginal": "Time for After",
+              "airdate": "2017-12-03",
+              "slotRuntime": 60,
+              "tvmazeId": 1336335
+            },
+            {
+              "id": "twd-s08e08",
+              "season": 8,
+              "number": 8,
+              "titleOriginal": "How It's Gotta Be",
+              "airdate": "2017-12-10",
+              "slotRuntime": 88,
+              "tvmazeId": 1336336
+            },
+            {
+              "id": "twd-s08e09",
+              "season": 8,
+              "number": 9,
+              "titleOriginal": "Honor",
+              "airdate": "2018-02-25",
+              "slotRuntime": 60,
+              "tvmazeId": 1371551
+            },
+            {
+              "id": "twd-s08e10",
+              "season": 8,
+              "number": 10,
+              "titleOriginal": "The Lost and the Plunderers",
+              "airdate": "2018-03-04",
+              "slotRuntime": 60,
+              "tvmazeId": 1406101
+            },
+            {
+              "id": "twd-s08e11",
+              "season": 8,
+              "number": 11,
+              "titleOriginal": "Dead or Alive Or",
+              "airdate": "2018-03-11",
+              "slotRuntime": 60,
+              "tvmazeId": 1409522
+            },
+            {
+              "id": "twd-s08e12",
+              "season": 8,
+              "number": 12,
+              "titleOriginal": "The Key",
+              "airdate": "2018-03-18",
+              "slotRuntime": 60,
+              "tvmazeId": 1409523
+            },
+            {
+              "id": "twd-s08e13",
+              "season": 8,
+              "number": 13,
+              "titleOriginal": "Do Not Send Us Astray",
+              "airdate": "2018-03-25",
+              "slotRuntime": 60,
+              "tvmazeId": 1409524
+            },
+            {
+              "id": "twd-s08e14",
+              "season": 8,
+              "number": 14,
+              "titleOriginal": "Still Gotta Mean Something",
+              "airdate": "2018-04-01",
+              "slotRuntime": 60,
+              "tvmazeId": 1409525
+            },
+            {
+              "id": "twd-s08e15",
+              "season": 8,
+              "number": 15,
+              "titleOriginal": "Worth",
+              "airdate": "2018-04-08",
+              "slotRuntime": 60,
+              "tvmazeId": 1409526
+            },
+            {
+              "id": "twd-s08e16",
+              "season": 8,
+              "number": 16,
+              "titleOriginal": "Wrath",
+              "airdate": "2018-04-15",
+              "slotRuntime": 60,
+              "tvmazeId": 1409696
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "episodes": [
+            {
+              "id": "twd-s09e01",
+              "season": 9,
+              "number": 1,
+              "titleOriginal": "A New Beginning",
+              "airdate": "2018-10-07",
+              "slotRuntime": 90,
+              "tvmazeId": 1499273
+            },
+            {
+              "id": "twd-s09e02",
+              "season": 9,
+              "number": 2,
+              "titleOriginal": "The Bridge",
+              "airdate": "2018-10-14",
+              "slotRuntime": 60,
+              "tvmazeId": 1529474
+            },
+            {
+              "id": "twd-s09e03",
+              "season": 9,
+              "number": 3,
+              "titleOriginal": "Warning Signs",
+              "airdate": "2018-10-21",
+              "slotRuntime": 60,
+              "tvmazeId": 1529475
+            },
+            {
+              "id": "twd-s09e04",
+              "season": 9,
+              "number": 4,
+              "titleOriginal": "The Obliged",
+              "airdate": "2018-10-28",
+              "slotRuntime": 60,
+              "tvmazeId": 1529476
+            },
+            {
+              "id": "twd-s09e05",
+              "season": 9,
+              "number": 5,
+              "titleOriginal": "What Comes After",
+              "airdate": "2018-11-04",
+              "slotRuntime": 60,
+              "tvmazeId": 1529477
+            },
+            {
+              "id": "twd-s09e06",
+              "season": 9,
+              "number": 6,
+              "titleOriginal": "Who Are You Now?",
+              "airdate": "2018-11-11",
+              "slotRuntime": 60,
+              "tvmazeId": 1529478
+            },
+            {
+              "id": "twd-s09e07",
+              "season": 9,
+              "number": 7,
+              "titleOriginal": "Stradivarius",
+              "airdate": "2018-11-18",
+              "slotRuntime": 60,
+              "tvmazeId": 1529479
+            },
+            {
+              "id": "twd-s09e08",
+              "season": 9,
+              "number": 8,
+              "titleOriginal": "Evolution",
+              "airdate": "2018-11-25",
+              "slotRuntime": 60,
+              "tvmazeId": 1529480
+            },
+            {
+              "id": "twd-s09e09",
+              "season": 9,
+              "number": 9,
+              "titleOriginal": "Adaptation",
+              "airdate": "2019-02-10",
+              "slotRuntime": 60,
+              "tvmazeId": 1571127
+            },
+            {
+              "id": "twd-s09e10",
+              "season": 9,
+              "number": 10,
+              "titleOriginal": "Omega",
+              "airdate": "2019-02-17",
+              "slotRuntime": 60,
+              "tvmazeId": 1594717
+            },
+            {
+              "id": "twd-s09e11",
+              "season": 9,
+              "number": 11,
+              "titleOriginal": "Bounty",
+              "airdate": "2019-02-24",
+              "slotRuntime": 60,
+              "tvmazeId": 1594718
+            },
+            {
+              "id": "twd-s09e12",
+              "season": 9,
+              "number": 12,
+              "titleOriginal": "Guardians",
+              "airdate": "2019-03-03",
+              "slotRuntime": 60,
+              "tvmazeId": 1594719
+            },
+            {
+              "id": "twd-s09e13",
+              "season": 9,
+              "number": 13,
+              "titleOriginal": "Chokepoint",
+              "airdate": "2019-03-10",
+              "slotRuntime": 60,
+              "tvmazeId": 1613890
+            },
+            {
+              "id": "twd-s09e14",
+              "season": 9,
+              "number": 14,
+              "titleOriginal": "Scars",
+              "airdate": "2019-03-17",
+              "slotRuntime": 60,
+              "tvmazeId": 1614107
+            },
+            {
+              "id": "twd-s09e15",
+              "season": 9,
+              "number": 15,
+              "titleOriginal": "The Calm Before",
+              "airdate": "2019-03-24",
+              "slotRuntime": 85,
+              "tvmazeId": 1614108
+            },
+            {
+              "id": "twd-s09e16",
+              "season": 9,
+              "number": 16,
+              "titleOriginal": "The Storm",
+              "airdate": "2019-03-31",
+              "slotRuntime": 60,
+              "tvmazeId": 1614109
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "episodes": [
+            {
+              "id": "twd-s10e01",
+              "season": 10,
+              "number": 1,
+              "titleOriginal": "Lines We Cross",
+              "airdate": "2019-10-06",
+              "slotRuntime": 74,
+              "tvmazeId": 1685119
+            },
+            {
+              "id": "twd-s10e02",
+              "season": 10,
+              "number": 2,
+              "titleOriginal": "We Are the End of the World",
+              "airdate": "2019-10-13",
+              "slotRuntime": 45,
+              "tvmazeId": 1717801
+            },
+            {
+              "id": "twd-s10e03",
+              "season": 10,
+              "number": 3,
+              "titleOriginal": "Ghosts",
+              "airdate": "2019-10-20",
+              "slotRuntime": 68,
+              "tvmazeId": 1717802
+            },
+            {
+              "id": "twd-s10e04",
+              "season": 10,
+              "number": 4,
+              "titleOriginal": "Silence the Whisperers",
+              "airdate": "2019-10-27",
+              "slotRuntime": 64,
+              "tvmazeId": 1717803
+            },
+            {
+              "id": "twd-s10e05",
+              "season": 10,
+              "number": 5,
+              "titleOriginal": "What It Always Is",
+              "airdate": "2019-11-03",
+              "slotRuntime": 68,
+              "tvmazeId": 1717804
+            },
+            {
+              "id": "twd-s10e06",
+              "season": 10,
+              "number": 6,
+              "titleOriginal": "Bonds",
+              "airdate": "2019-11-10",
+              "slotRuntime": 67,
+              "tvmazeId": 1717805
+            },
+            {
+              "id": "twd-s10e07",
+              "season": 10,
+              "number": 7,
+              "titleOriginal": "Open Your Eyes",
+              "airdate": "2019-11-17",
+              "slotRuntime": 65,
+              "tvmazeId": 1717806
+            },
+            {
+              "id": "twd-s10e08",
+              "season": 10,
+              "number": 8,
+              "titleOriginal": "The World Before",
+              "airdate": "2019-11-24",
+              "slotRuntime": 80,
+              "tvmazeId": 1717807
+            },
+            {
+              "id": "twd-s10e09",
+              "season": 10,
+              "number": 9,
+              "titleOriginal": "Squeeze",
+              "airdate": "2020-02-23",
+              "slotRuntime": 65,
+              "tvmazeId": 1762852
+            },
+            {
+              "id": "twd-s10e10",
+              "season": 10,
+              "number": 10,
+              "titleOriginal": "Stalker",
+              "airdate": "2020-03-01",
+              "slotRuntime": 68,
+              "tvmazeId": 1800502
+            },
+            {
+              "id": "twd-s10e11",
+              "season": 10,
+              "number": 11,
+              "titleOriginal": "Morning Star",
+              "airdate": "2020-03-08",
+              "slotRuntime": 65,
+              "tvmazeId": 1800989
+            },
+            {
+              "id": "twd-s10e12",
+              "season": 10,
+              "number": 12,
+              "titleOriginal": "Walk with Us",
+              "airdate": "2020-03-15",
+              "slotRuntime": 64,
+              "tvmazeId": 1808372
+            },
+            {
+              "id": "twd-s10e13",
+              "season": 10,
+              "number": 13,
+              "titleOriginal": "What We Become",
+              "airdate": "2020-03-22",
+              "slotRuntime": 51,
+              "tvmazeId": 1808373
+            },
+            {
+              "id": "twd-s10e14",
+              "season": 10,
+              "number": 14,
+              "titleOriginal": "Look at the Flowers",
+              "airdate": "2020-03-29",
+              "slotRuntime": 66,
+              "tvmazeId": 1808374
+            },
+            {
+              "id": "twd-s10e15",
+              "season": 10,
+              "number": 15,
+              "titleOriginal": "The Tower",
+              "airdate": "2020-04-05",
+              "slotRuntime": 62,
+              "tvmazeId": 1808375
+            },
+            {
+              "id": "twd-s10e16",
+              "season": 10,
+              "number": 16,
+              "titleOriginal": "A Certain Doom",
+              "airdate": "2020-10-04",
+              "slotRuntime": 66,
+              "tvmazeId": 1808376
+            },
+            {
+              "id": "twd-s10e17",
+              "season": 10,
+              "number": 17,
+              "titleOriginal": "Home Sweet Home",
+              "airdate": "2021-02-28",
+              "slotRuntime": 62,
+              "tvmazeId": 1967119
+            },
+            {
+              "id": "twd-s10e18",
+              "season": 10,
+              "number": 18,
+              "titleOriginal": "Find Me",
+              "airdate": "2021-03-07",
+              "slotRuntime": 63,
+              "tvmazeId": 1968396
+            },
+            {
+              "id": "twd-s10e19",
+              "season": 10,
+              "number": 19,
+              "titleOriginal": "One More",
+              "airdate": "2021-03-14",
+              "slotRuntime": 68,
+              "tvmazeId": 1972540
+            },
+            {
+              "id": "twd-s10e20",
+              "season": 10,
+              "number": 20,
+              "titleOriginal": "Splinter",
+              "airdate": "2021-03-21",
+              "slotRuntime": 60,
+              "tvmazeId": 1972541
+            },
+            {
+              "id": "twd-s10e21",
+              "season": 10,
+              "number": 21,
+              "titleOriginal": "Diverged",
+              "airdate": "2021-03-28",
+              "slotRuntime": 62,
+              "tvmazeId": 1972542
+            },
+            {
+              "id": "twd-s10e22",
+              "season": 10,
+              "number": 22,
+              "titleOriginal": "Here's Negan",
+              "airdate": "2021-04-04",
+              "slotRuntime": 74,
+              "tvmazeId": 1972543
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "episodes": [
+            {
+              "id": "twd-s11e01",
+              "season": 11,
+              "number": 1,
+              "titleOriginal": "Acheron: Part 1",
+              "airdate": "2021-08-15",
+              "slotRuntime": 67,
+              "tvmazeId": 2061566
+            },
+            {
+              "id": "twd-s11e02",
+              "season": 11,
+              "number": 2,
+              "titleOriginal": "Acheron: Part 2",
+              "airdate": "2021-08-22",
+              "slotRuntime": 74,
+              "tvmazeId": 2119122
+            },
+            {
+              "id": "twd-s11e03",
+              "season": 11,
+              "number": 3,
+              "titleOriginal": "Hunted",
+              "airdate": "2021-08-29",
+              "slotRuntime": 62,
+              "tvmazeId": 2119123
+            },
+            {
+              "id": "twd-s11e04",
+              "season": 11,
+              "number": 4,
+              "titleOriginal": "Rendition",
+              "airdate": "2021-09-05",
+              "slotRuntime": 64,
+              "tvmazeId": 2119124
+            },
+            {
+              "id": "twd-s11e05",
+              "season": 11,
+              "number": 5,
+              "titleOriginal": "Out of the Ashes",
+              "airdate": "2021-09-12",
+              "slotRuntime": 67,
+              "tvmazeId": 2119125
+            },
+            {
+              "id": "twd-s11e06",
+              "season": 11,
+              "number": 6,
+              "titleOriginal": "On the Inside",
+              "airdate": "2021-09-19",
+              "slotRuntime": 60,
+              "tvmazeId": 2119126
+            },
+            {
+              "id": "twd-s11e07",
+              "season": 11,
+              "number": 7,
+              "titleOriginal": "Promises Broken",
+              "airdate": "2021-09-26",
+              "slotRuntime": 66,
+              "tvmazeId": 2119127
+            },
+            {
+              "id": "twd-s11e08",
+              "season": 11,
+              "number": 8,
+              "titleOriginal": "For Blood",
+              "airdate": "2021-10-03",
+              "slotRuntime": 61,
+              "tvmazeId": 2119128
+            },
+            {
+              "id": "twd-s11e09",
+              "season": 11,
+              "number": 9,
+              "titleOriginal": "No Other Way",
+              "airdate": "2022-02-13",
+              "slotRuntime": 60,
+              "tvmazeId": 2190064
+            },
+            {
+              "id": "twd-s11e10",
+              "season": 11,
+              "number": 10,
+              "titleOriginal": "New Haunts",
+              "airdate": "2022-02-20",
+              "slotRuntime": 67,
+              "tvmazeId": 2271814
+            },
+            {
+              "id": "twd-s11e11",
+              "season": 11,
+              "number": 11,
+              "titleOriginal": "Rogue Element",
+              "airdate": "2022-02-27",
+              "slotRuntime": 68,
+              "tvmazeId": 2271817
+            },
+            {
+              "id": "twd-s11e12",
+              "season": 11,
+              "number": 12,
+              "titleOriginal": "The Lucky Ones",
+              "airdate": "2022-03-06",
+              "slotRuntime": 66,
+              "tvmazeId": 2282391
+            },
+            {
+              "id": "twd-s11e13",
+              "season": 11,
+              "number": 13,
+              "titleOriginal": "Warlords",
+              "airdate": "2022-03-13",
+              "slotRuntime": 64,
+              "tvmazeId": 2284376
+            },
+            {
+              "id": "twd-s11e14",
+              "season": 11,
+              "number": 14,
+              "titleOriginal": "The Rotten Core",
+              "airdate": "2022-03-20",
+              "slotRuntime": 63,
+              "tvmazeId": 2286040
+            },
+            {
+              "id": "twd-s11e15",
+              "season": 11,
+              "number": 15,
+              "titleOriginal": "Trust",
+              "airdate": "2022-03-27",
+              "slotRuntime": 66,
+              "tvmazeId": 2295049
+            },
+            {
+              "id": "twd-s11e16",
+              "season": 11,
+              "number": 16,
+              "titleOriginal": "Acts of God",
+              "airdate": "2022-04-03",
+              "slotRuntime": 62,
+              "tvmazeId": 2295050
+            },
+            {
+              "id": "twd-s11e17",
+              "season": 11,
+              "number": 17,
+              "titleOriginal": "Lockdown",
+              "airdate": "2022-10-02",
+              "slotRuntime": 66,
+              "tvmazeId": 2365715
+            },
+            {
+              "id": "twd-s11e18",
+              "season": 11,
+              "number": 18,
+              "titleOriginal": "A New Deal",
+              "airdate": "2022-10-02",
+              "slotRuntime": 66,
+              "tvmazeId": 2372834
+            },
+            {
+              "id": "twd-s11e19",
+              "season": 11,
+              "number": 19,
+              "titleOriginal": "Variant",
+              "airdate": "2022-10-09",
+              "slotRuntime": 55,
+              "tvmazeId": 2408238
+            },
+            {
+              "id": "twd-s11e20",
+              "season": 11,
+              "number": 20,
+              "titleOriginal": "What's Been Lost",
+              "airdate": "2022-10-16",
+              "slotRuntime": 43,
+              "tvmazeId": 2408239
+            },
+            {
+              "id": "twd-s11e21",
+              "season": 11,
+              "number": 21,
+              "titleOriginal": "Outpost 22",
+              "airdate": "2022-10-23",
+              "slotRuntime": 48,
+              "tvmazeId": 2408240
+            },
+            {
+              "id": "twd-s11e22",
+              "season": 11,
+              "number": 22,
+              "titleOriginal": "Faith",
+              "airdate": "2022-10-30",
+              "slotRuntime": 45,
+              "tvmazeId": 2408241
+            },
+            {
+              "id": "twd-s11e23",
+              "season": 11,
+              "number": 23,
+              "titleOriginal": "Family",
+              "airdate": "2022-11-06",
+              "slotRuntime": 44,
+              "tvmazeId": 2408242
+            },
+            {
+              "id": "twd-s11e24",
+              "season": 11,
+              "number": 24,
+              "titleOriginal": "Rest in Peace",
+              "airdate": "2022-11-20",
+              "slotRuntime": 60,
+              "tvmazeId": 2408243
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ftwd",
+      "tvmazeId": 1824,
+      "tvmazeName": "Fear the Walking Dead",
+      "status": "Ended",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/1824/fear-the-walking-dead",
+        "https://en.wikipedia.org/wiki/List_of_Fear_the_Walking_Dead_episodes"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        },
+        "2": {
+          "tvmaze": 15,
+          "wikipedia": 15,
+          "match": true
+        },
+        "3": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "4": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "5": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "6": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "7": {
+          "tvmaze": 16,
+          "wikipedia": 16,
+          "match": true
+        },
+        "8": {
+          "tvmaze": 12,
+          "wikipedia": 12,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "ftwd-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "Pilot",
+              "airdate": "2015-08-23",
+              "slotRuntime": 90,
+              "tvmazeId": 185233
+            },
+            {
+              "id": "ftwd-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "So Close, Yet So Far",
+              "airdate": "2015-08-30",
+              "slotRuntime": 60,
+              "tvmazeId": 185319
+            },
+            {
+              "id": "ftwd-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "The Dog",
+              "airdate": "2015-09-13",
+              "slotRuntime": 60,
+              "tvmazeId": 185320
+            },
+            {
+              "id": "ftwd-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "Not Fade Away",
+              "airdate": "2015-09-20",
+              "slotRuntime": 60,
+              "tvmazeId": 207635
+            },
+            {
+              "id": "ftwd-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Cobalt",
+              "airdate": "2015-09-27",
+              "slotRuntime": 60,
+              "tvmazeId": 207636
+            },
+            {
+              "id": "ftwd-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "The Good Man",
+              "airdate": "2015-10-04",
+              "slotRuntime": 60,
+              "tvmazeId": 207637
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "ftwd-s02e01",
+              "season": 2,
+              "number": 1,
+              "titleOriginal": "Monster",
+              "airdate": "2016-04-10",
+              "slotRuntime": 60,
+              "tvmazeId": 562186
+            },
+            {
+              "id": "ftwd-s02e02",
+              "season": 2,
+              "number": 2,
+              "titleOriginal": "We All Fall Down",
+              "airdate": "2016-04-17",
+              "slotRuntime": 60,
+              "tvmazeId": 664689
+            },
+            {
+              "id": "ftwd-s02e03",
+              "season": 2,
+              "number": 3,
+              "titleOriginal": "Ouroboros",
+              "airdate": "2016-04-24",
+              "slotRuntime": 60,
+              "tvmazeId": 664690
+            },
+            {
+              "id": "ftwd-s02e04",
+              "season": 2,
+              "number": 4,
+              "titleOriginal": "Blood in the Streets",
+              "airdate": "2016-05-01",
+              "slotRuntime": 60,
+              "tvmazeId": 664691
+            },
+            {
+              "id": "ftwd-s02e05",
+              "season": 2,
+              "number": 5,
+              "titleOriginal": "Captive",
+              "airdate": "2016-05-08",
+              "slotRuntime": 60,
+              "tvmazeId": 664692
+            },
+            {
+              "id": "ftwd-s02e06",
+              "season": 2,
+              "number": 6,
+              "titleOriginal": "Sicut Cervus",
+              "airdate": "2016-05-15",
+              "slotRuntime": 60,
+              "tvmazeId": 664693
+            },
+            {
+              "id": "ftwd-s02e07",
+              "season": 2,
+              "number": 7,
+              "titleOriginal": "Shiva",
+              "airdate": "2016-05-22",
+              "slotRuntime": 60,
+              "tvmazeId": 664694
+            },
+            {
+              "id": "ftwd-s02e08",
+              "season": 2,
+              "number": 8,
+              "titleOriginal": "Grotesque",
+              "airdate": "2016-08-21",
+              "slotRuntime": 60,
+              "tvmazeId": 798788
+            },
+            {
+              "id": "ftwd-s02e09",
+              "season": 2,
+              "number": 9,
+              "titleOriginal": "Los Muertos",
+              "airdate": "2016-08-28",
+              "slotRuntime": 60,
+              "tvmazeId": 892405
+            },
+            {
+              "id": "ftwd-s02e10",
+              "season": 2,
+              "number": 10,
+              "titleOriginal": "Do Not Disturb",
+              "airdate": "2016-09-04",
+              "slotRuntime": 60,
+              "tvmazeId": 892406
+            },
+            {
+              "id": "ftwd-s02e11",
+              "season": 2,
+              "number": 11,
+              "titleOriginal": "Pablo & Jessica",
+              "airdate": "2016-09-11",
+              "slotRuntime": 60,
+              "tvmazeId": 892407
+            },
+            {
+              "id": "ftwd-s02e12",
+              "season": 2,
+              "number": 12,
+              "titleOriginal": "Pillar of Salt",
+              "airdate": "2016-09-18",
+              "slotRuntime": 60,
+              "tvmazeId": 921305
+            },
+            {
+              "id": "ftwd-s02e13",
+              "season": 2,
+              "number": 13,
+              "titleOriginal": "Date of Death",
+              "airdate": "2016-09-25",
+              "slotRuntime": 60,
+              "tvmazeId": 921307
+            },
+            {
+              "id": "ftwd-s02e14",
+              "season": 2,
+              "number": 14,
+              "titleOriginal": "Wrath",
+              "airdate": "2016-10-02",
+              "slotRuntime": 60,
+              "tvmazeId": 921308
+            },
+            {
+              "id": "ftwd-s02e15",
+              "season": 2,
+              "number": 15,
+              "titleOriginal": "North",
+              "airdate": "2016-10-02",
+              "slotRuntime": 60,
+              "tvmazeId": 921309
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "ftwd-s03e01",
+              "season": 3,
+              "number": 1,
+              "titleOriginal": "Eye of the Beholder",
+              "airdate": "2017-06-04",
+              "slotRuntime": 60,
+              "tvmazeId": 1120647
+            },
+            {
+              "id": "ftwd-s03e02",
+              "season": 3,
+              "number": 2,
+              "titleOriginal": "The New Frontier",
+              "airdate": "2017-06-04",
+              "slotRuntime": 70,
+              "tvmazeId": 1121505
+            },
+            {
+              "id": "ftwd-s03e03",
+              "season": 3,
+              "number": 3,
+              "titleOriginal": "TEOTWAWKI",
+              "airdate": "2017-06-11",
+              "slotRuntime": 60,
+              "tvmazeId": 1121506
+            },
+            {
+              "id": "ftwd-s03e04",
+              "season": 3,
+              "number": 4,
+              "titleOriginal": "100",
+              "airdate": "2017-06-18",
+              "slotRuntime": 60,
+              "tvmazeId": 1121507
+            },
+            {
+              "id": "ftwd-s03e05",
+              "season": 3,
+              "number": 5,
+              "titleOriginal": "Burning in Water, Drowning in Flame",
+              "airdate": "2017-06-25",
+              "slotRuntime": 60,
+              "tvmazeId": 1121508
+            },
+            {
+              "id": "ftwd-s03e06",
+              "season": 3,
+              "number": 6,
+              "titleOriginal": "Red Dirt",
+              "airdate": "2017-07-02",
+              "slotRuntime": 60,
+              "tvmazeId": 1121509
+            },
+            {
+              "id": "ftwd-s03e07",
+              "season": 3,
+              "number": 7,
+              "titleOriginal": "The Unveiling",
+              "airdate": "2017-07-09",
+              "slotRuntime": 60,
+              "tvmazeId": 1121510
+            },
+            {
+              "id": "ftwd-s03e08",
+              "season": 3,
+              "number": 8,
+              "titleOriginal": "Children of Wrath",
+              "airdate": "2017-07-09",
+              "slotRuntime": 70,
+              "tvmazeId": 1121511
+            },
+            {
+              "id": "ftwd-s03e09",
+              "season": 3,
+              "number": 9,
+              "titleOriginal": "Minotaur",
+              "airdate": "2017-09-10",
+              "slotRuntime": 60,
+              "tvmazeId": 1244668
+            },
+            {
+              "id": "ftwd-s03e10",
+              "season": 3,
+              "number": 10,
+              "titleOriginal": "The Diviner",
+              "airdate": "2017-09-10",
+              "slotRuntime": 60,
+              "tvmazeId": 1244736
+            },
+            {
+              "id": "ftwd-s03e11",
+              "season": 3,
+              "number": 11,
+              "titleOriginal": "La Serpiente",
+              "airdate": "2017-09-17",
+              "slotRuntime": 60,
+              "tvmazeId": 1254269
+            },
+            {
+              "id": "ftwd-s03e12",
+              "season": 3,
+              "number": 12,
+              "titleOriginal": "Brother's Keeper",
+              "airdate": "2017-09-24",
+              "slotRuntime": 60,
+              "tvmazeId": 1254270
+            },
+            {
+              "id": "ftwd-s03e13",
+              "season": 3,
+              "number": 13,
+              "titleOriginal": "This Land is Your Land",
+              "airdate": "2017-10-01",
+              "slotRuntime": 60,
+              "tvmazeId": 1254271
+            },
+            {
+              "id": "ftwd-s03e14",
+              "season": 3,
+              "number": 14,
+              "titleOriginal": "El Matadero",
+              "airdate": "2017-10-08",
+              "slotRuntime": 60,
+              "tvmazeId": 1254272
+            },
+            {
+              "id": "ftwd-s03e15",
+              "season": 3,
+              "number": 15,
+              "titleOriginal": "Things Bad Begun",
+              "airdate": "2017-10-15",
+              "slotRuntime": 60,
+              "tvmazeId": 1254273
+            },
+            {
+              "id": "ftwd-s03e16",
+              "season": 3,
+              "number": 16,
+              "titleOriginal": "Sleigh Ride",
+              "airdate": "2017-10-15",
+              "slotRuntime": 60,
+              "tvmazeId": 1254274
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "id": "ftwd-s04e01",
+              "season": 4,
+              "number": 1,
+              "titleOriginal": "What's Your Story?",
+              "airdate": "2018-04-15",
+              "slotRuntime": 60,
+              "tvmazeId": 1390321
+            },
+            {
+              "id": "ftwd-s04e02",
+              "season": 4,
+              "number": 2,
+              "titleOriginal": "Another Day in the Diamond",
+              "airdate": "2018-04-22",
+              "slotRuntime": 60,
+              "tvmazeId": 1401067
+            },
+            {
+              "id": "ftwd-s04e03",
+              "season": 4,
+              "number": 3,
+              "titleOriginal": "Good Out Here",
+              "airdate": "2018-04-29",
+              "slotRuntime": 60,
+              "tvmazeId": 1427856
+            },
+            {
+              "id": "ftwd-s04e04",
+              "season": 4,
+              "number": 4,
+              "titleOriginal": "Buried",
+              "airdate": "2018-05-06",
+              "slotRuntime": 60,
+              "tvmazeId": 1427857
+            },
+            {
+              "id": "ftwd-s04e05",
+              "season": 4,
+              "number": 5,
+              "titleOriginal": "Laura",
+              "airdate": "2018-05-13",
+              "slotRuntime": 60,
+              "tvmazeId": 1427858
+            },
+            {
+              "id": "ftwd-s04e06",
+              "season": 4,
+              "number": 6,
+              "titleOriginal": "Just in Case",
+              "airdate": "2018-05-20",
+              "slotRuntime": 60,
+              "tvmazeId": 1427859
+            },
+            {
+              "id": "ftwd-s04e07",
+              "season": 4,
+              "number": 7,
+              "titleOriginal": "The Wrong Side of Where You Are Now",
+              "airdate": "2018-06-03",
+              "slotRuntime": 60,
+              "tvmazeId": 1427860
+            },
+            {
+              "id": "ftwd-s04e08",
+              "season": 4,
+              "number": 8,
+              "titleOriginal": "No One's Gone",
+              "airdate": "2018-06-10",
+              "slotRuntime": 60,
+              "tvmazeId": 1427861
+            },
+            {
+              "id": "ftwd-s04e09",
+              "season": 4,
+              "number": 9,
+              "titleOriginal": "People Like Us",
+              "airdate": "2018-08-12",
+              "slotRuntime": 60,
+              "tvmazeId": 1478462
+            },
+            {
+              "id": "ftwd-s04e10",
+              "season": 4,
+              "number": 10,
+              "titleOriginal": "Close Your Eyes",
+              "airdate": "2018-08-19",
+              "slotRuntime": 60,
+              "tvmazeId": 1495436
+            },
+            {
+              "id": "ftwd-s04e11",
+              "season": 4,
+              "number": 11,
+              "titleOriginal": "The Code",
+              "airdate": "2018-08-26",
+              "slotRuntime": 60,
+              "tvmazeId": 1495437
+            },
+            {
+              "id": "ftwd-s04e12",
+              "season": 4,
+              "number": 12,
+              "titleOriginal": "Weak",
+              "airdate": "2018-09-02",
+              "slotRuntime": 60,
+              "tvmazeId": 1495438
+            },
+            {
+              "id": "ftwd-s04e13",
+              "season": 4,
+              "number": 13,
+              "titleOriginal": "Blackjack",
+              "airdate": "2018-09-09",
+              "slotRuntime": 60,
+              "tvmazeId": 1495439
+            },
+            {
+              "id": "ftwd-s04e14",
+              "season": 4,
+              "number": 14,
+              "titleOriginal": "MM 54",
+              "airdate": "2018-09-16",
+              "slotRuntime": 60,
+              "tvmazeId": 1495440
+            },
+            {
+              "id": "ftwd-s04e15",
+              "season": 4,
+              "number": 15,
+              "titleOriginal": "I Lose People...",
+              "airdate": "2018-09-23",
+              "slotRuntime": 60,
+              "tvmazeId": 1495441
+            },
+            {
+              "id": "ftwd-s04e16",
+              "season": 4,
+              "number": 16,
+              "titleOriginal": "... I Lose Myself",
+              "airdate": "2018-09-30",
+              "slotRuntime": 60,
+              "tvmazeId": 1495442
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "id": "ftwd-s05e01",
+              "season": 5,
+              "number": 1,
+              "titleOriginal": "Here to Help",
+              "airdate": "2019-06-02",
+              "slotRuntime": 60,
+              "tvmazeId": 1631460
+            },
+            {
+              "id": "ftwd-s05e02",
+              "season": 5,
+              "number": 2,
+              "titleOriginal": "The Hurt That Will Happen",
+              "airdate": "2019-06-09",
+              "slotRuntime": 60,
+              "tvmazeId": 1661568
+            },
+            {
+              "id": "ftwd-s05e03",
+              "season": 5,
+              "number": 3,
+              "titleOriginal": "Humbug's Gulch",
+              "airdate": "2019-06-16",
+              "slotRuntime": 60,
+              "tvmazeId": 1663841
+            },
+            {
+              "id": "ftwd-s05e04",
+              "season": 5,
+              "number": 4,
+              "titleOriginal": "Skidmark",
+              "airdate": "2019-06-23",
+              "slotRuntime": 60,
+              "tvmazeId": 1663842
+            },
+            {
+              "id": "ftwd-s05e05",
+              "season": 5,
+              "number": 5,
+              "titleOriginal": "The End of Everything",
+              "airdate": "2019-06-30",
+              "slotRuntime": 60,
+              "tvmazeId": 1663843
+            },
+            {
+              "id": "ftwd-s05e06",
+              "season": 5,
+              "number": 6,
+              "titleOriginal": "The Little Prince",
+              "airdate": "2019-07-07",
+              "slotRuntime": 60,
+              "tvmazeId": 1673646
+            },
+            {
+              "id": "ftwd-s05e07",
+              "season": 5,
+              "number": 7,
+              "titleOriginal": "Still Standing",
+              "airdate": "2019-07-14",
+              "slotRuntime": 60,
+              "tvmazeId": 1673647
+            },
+            {
+              "id": "ftwd-s05e08",
+              "season": 5,
+              "number": 8,
+              "titleOriginal": "Is Anybody Out There?",
+              "airdate": "2019-07-21",
+              "slotRuntime": 60,
+              "tvmazeId": 1673648
+            },
+            {
+              "id": "ftwd-s05e09",
+              "season": 5,
+              "number": 9,
+              "titleOriginal": "Channel 4",
+              "airdate": "2019-08-11",
+              "slotRuntime": 60,
+              "tvmazeId": 1685120
+            },
+            {
+              "id": "ftwd-s05e10",
+              "season": 5,
+              "number": 10,
+              "titleOriginal": "210 Words Per Minute",
+              "airdate": "2019-08-18",
+              "slotRuntime": 60,
+              "tvmazeId": 1690594
+            },
+            {
+              "id": "ftwd-s05e11",
+              "season": 5,
+              "number": 11,
+              "titleOriginal": "You're Still Here",
+              "airdate": "2019-08-25",
+              "slotRuntime": 60,
+              "tvmazeId": 1690595
+            },
+            {
+              "id": "ftwd-s05e12",
+              "season": 5,
+              "number": 12,
+              "titleOriginal": "Ner Tamid",
+              "airdate": "2019-09-01",
+              "slotRuntime": 60,
+              "tvmazeId": 1690596
+            },
+            {
+              "id": "ftwd-s05e13",
+              "season": 5,
+              "number": 13,
+              "titleOriginal": "Leave What You Don't",
+              "airdate": "2019-09-08",
+              "slotRuntime": 60,
+              "tvmazeId": 1690597
+            },
+            {
+              "id": "ftwd-s05e14",
+              "season": 5,
+              "number": 14,
+              "titleOriginal": "Today and Tomorrow",
+              "airdate": "2019-09-15",
+              "slotRuntime": 60,
+              "tvmazeId": 1690598
+            },
+            {
+              "id": "ftwd-s05e15",
+              "season": 5,
+              "number": 15,
+              "titleOriginal": "Channel 5",
+              "airdate": "2019-09-22",
+              "slotRuntime": 65,
+              "tvmazeId": 1690599
+            },
+            {
+              "id": "ftwd-s05e16",
+              "season": 5,
+              "number": 16,
+              "titleOriginal": "End of the Line",
+              "airdate": "2019-09-29",
+              "slotRuntime": 74,
+              "tvmazeId": 1690600
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "episodes": [
+            {
+              "id": "ftwd-s06e01",
+              "season": 6,
+              "number": 1,
+              "titleOriginal": "The End is the Beginning",
+              "airdate": "2020-10-11",
+              "slotRuntime": 60,
+              "tvmazeId": 1906488
+            },
+            {
+              "id": "ftwd-s06e02",
+              "season": 6,
+              "number": 2,
+              "titleOriginal": "Welcome to the Club",
+              "airdate": "2020-10-18",
+              "slotRuntime": 60,
+              "tvmazeId": 1940527
+            },
+            {
+              "id": "ftwd-s06e03",
+              "season": 6,
+              "number": 3,
+              "titleOriginal": "Alaska",
+              "airdate": "2020-10-25",
+              "slotRuntime": 60,
+              "tvmazeId": 1940529
+            },
+            {
+              "id": "ftwd-s06e04",
+              "season": 6,
+              "number": 4,
+              "titleOriginal": "The Key",
+              "airdate": "2020-11-01",
+              "slotRuntime": 60,
+              "tvmazeId": 1940597
+            },
+            {
+              "id": "ftwd-s06e05",
+              "season": 6,
+              "number": 5,
+              "titleOriginal": "Honey",
+              "airdate": "2020-11-08",
+              "slotRuntime": 60,
+              "tvmazeId": 1940598
+            },
+            {
+              "id": "ftwd-s06e06",
+              "season": 6,
+              "number": 6,
+              "titleOriginal": "Bury Her Next to Jasper's Leg",
+              "airdate": "2020-11-15",
+              "slotRuntime": 60,
+              "tvmazeId": 1947000
+            },
+            {
+              "id": "ftwd-s06e07",
+              "season": 6,
+              "number": 7,
+              "titleOriginal": "Damage from the Inside",
+              "airdate": "2020-11-22",
+              "slotRuntime": 60,
+              "tvmazeId": 1947002
+            },
+            {
+              "id": "ftwd-s06e08",
+              "season": 6,
+              "number": 8,
+              "titleOriginal": "The Door",
+              "airdate": "2021-04-11",
+              "slotRuntime": 60,
+              "tvmazeId": 1974462
+            },
+            {
+              "id": "ftwd-s06e09",
+              "season": 6,
+              "number": 9,
+              "titleOriginal": "Things Left to Do",
+              "airdate": "2021-04-18",
+              "slotRuntime": 60,
+              "tvmazeId": 2044864
+            },
+            {
+              "id": "ftwd-s06e10",
+              "season": 6,
+              "number": 10,
+              "titleOriginal": "Handle with Care",
+              "airdate": "2021-04-25",
+              "slotRuntime": 60,
+              "tvmazeId": 2044867
+            },
+            {
+              "id": "ftwd-s06e11",
+              "season": 6,
+              "number": 11,
+              "titleOriginal": "The Holding",
+              "airdate": "2021-05-02",
+              "slotRuntime": 60,
+              "tvmazeId": 2044869
+            },
+            {
+              "id": "ftwd-s06e12",
+              "season": 6,
+              "number": 12,
+              "titleOriginal": "In Dreams",
+              "airdate": "2021-05-09",
+              "slotRuntime": 60,
+              "tvmazeId": 2044876
+            },
+            {
+              "id": "ftwd-s06e13",
+              "season": 6,
+              "number": 13,
+              "titleOriginal": "J.D.",
+              "airdate": "2021-05-16",
+              "slotRuntime": 60,
+              "tvmazeId": 2044879
+            },
+            {
+              "id": "ftwd-s06e14",
+              "season": 6,
+              "number": 14,
+              "titleOriginal": "Mother",
+              "airdate": "2021-05-23",
+              "slotRuntime": 60,
+              "tvmazeId": 2044881
+            },
+            {
+              "id": "ftwd-s06e15",
+              "season": 6,
+              "number": 15,
+              "titleOriginal": "USS Pennsylvania",
+              "airdate": "2021-06-06",
+              "slotRuntime": 60,
+              "tvmazeId": 2044888
+            },
+            {
+              "id": "ftwd-s06e16",
+              "season": 6,
+              "number": 16,
+              "titleOriginal": "The Beginning",
+              "airdate": "2021-06-13",
+              "slotRuntime": 60,
+              "tvmazeId": 2044890
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "episodes": [
+            {
+              "id": "ftwd-s07e01",
+              "season": 7,
+              "number": 1,
+              "titleOriginal": "The Beacon",
+              "airdate": "2021-10-10",
+              "slotRuntime": 48,
+              "tvmazeId": 2135507
+            },
+            {
+              "id": "ftwd-s07e02",
+              "season": 7,
+              "number": 2,
+              "titleOriginal": "Six Hours",
+              "airdate": "2021-10-17",
+              "slotRuntime": 47,
+              "tvmazeId": 2180014
+            },
+            {
+              "id": "ftwd-s07e03",
+              "season": 7,
+              "number": 3,
+              "titleOriginal": "Cindy Hawkins",
+              "airdate": "2021-10-24",
+              "slotRuntime": 46,
+              "tvmazeId": 2185677
+            },
+            {
+              "id": "ftwd-s07e04",
+              "season": 7,
+              "number": 4,
+              "titleOriginal": "Breathe With Me",
+              "airdate": "2021-10-31",
+              "slotRuntime": 42,
+              "tvmazeId": 2190455
+            },
+            {
+              "id": "ftwd-s07e05",
+              "season": 7,
+              "number": 5,
+              "titleOriginal": "Till Death",
+              "airdate": "2021-11-07",
+              "slotRuntime": 48,
+              "tvmazeId": 2193054
+            },
+            {
+              "id": "ftwd-s07e06",
+              "season": 7,
+              "number": 6,
+              "titleOriginal": "Reclamation",
+              "airdate": "2021-11-14",
+              "slotRuntime": 48,
+              "tvmazeId": 2193055
+            },
+            {
+              "id": "ftwd-s07e07",
+              "season": 7,
+              "number": 7,
+              "titleOriginal": "The Portrait",
+              "airdate": "2021-11-21",
+              "slotRuntime": 46,
+              "tvmazeId": 2193056
+            },
+            {
+              "id": "ftwd-s07e08",
+              "season": 7,
+              "number": 8,
+              "titleOriginal": "PADRE",
+              "airdate": "2021-11-28",
+              "slotRuntime": 52,
+              "tvmazeId": 2193057
+            },
+            {
+              "id": "ftwd-s07e09",
+              "season": 7,
+              "number": 9,
+              "titleOriginal": "Follow Me",
+              "airdate": "2022-04-17",
+              "slotRuntime": 47,
+              "tvmazeId": 2231784
+            },
+            {
+              "id": "ftwd-s07e10",
+              "season": 7,
+              "number": 10,
+              "titleOriginal": "Mourning Cloak",
+              "airdate": "2022-04-17",
+              "slotRuntime": 47,
+              "tvmazeId": 2307346
+            },
+            {
+              "id": "ftwd-s07e11",
+              "season": 7,
+              "number": 11,
+              "titleOriginal": "Ofelia",
+              "airdate": "2022-04-24",
+              "slotRuntime": 46,
+              "tvmazeId": 2307347
+            },
+            {
+              "id": "ftwd-s07e12",
+              "season": 7,
+              "number": 12,
+              "titleOriginal": "Sonny Boy",
+              "airdate": "2022-05-01",
+              "slotRuntime": 42,
+              "tvmazeId": 2313302
+            },
+            {
+              "id": "ftwd-s07e13",
+              "season": 7,
+              "number": 13,
+              "titleOriginal": "The Raft",
+              "airdate": "2022-05-08",
+              "slotRuntime": 46,
+              "tvmazeId": 2313303
+            },
+            {
+              "id": "ftwd-s07e14",
+              "season": 7,
+              "number": 14,
+              "titleOriginal": "Divine Providence",
+              "airdate": "2022-05-15",
+              "slotRuntime": 45,
+              "tvmazeId": 2313304
+            },
+            {
+              "id": "ftwd-s07e15",
+              "season": 7,
+              "number": 15,
+              "titleOriginal": "Amina",
+              "airdate": "2022-05-22",
+              "slotRuntime": 50,
+              "tvmazeId": 2313305
+            },
+            {
+              "id": "ftwd-s07e16",
+              "season": 7,
+              "number": 16,
+              "titleOriginal": "Gone",
+              "airdate": "2022-05-29",
+              "slotRuntime": 47,
+              "tvmazeId": 2313306
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "episodes": [
+            {
+              "id": "ftwd-s08e01",
+              "season": 8,
+              "number": 1,
+              "titleOriginal": "Remember What They Took From You",
+              "airdate": "2023-05-11",
+              "slotRuntime": 57,
+              "tvmazeId": 2466476
+            },
+            {
+              "id": "ftwd-s08e02",
+              "season": 8,
+              "number": 2,
+              "titleOriginal": "Blue Jay",
+              "airdate": "2023-05-18",
+              "slotRuntime": 51,
+              "tvmazeId": 2466477
+            },
+            {
+              "id": "ftwd-s08e03",
+              "season": 8,
+              "number": 3,
+              "titleOriginal": "Odessa",
+              "airdate": "2023-05-25",
+              "slotRuntime": 49,
+              "tvmazeId": 2466478
+            },
+            {
+              "id": "ftwd-s08e04",
+              "season": 8,
+              "number": 4,
+              "titleOriginal": "King County",
+              "airdate": "2023-06-01",
+              "slotRuntime": 52,
+              "tvmazeId": 2466479
+            },
+            {
+              "id": "ftwd-s08e05",
+              "season": 8,
+              "number": 5,
+              "titleOriginal": "More Time Than You Know",
+              "airdate": "2023-06-08",
+              "slotRuntime": 53,
+              "tvmazeId": 2466480
+            },
+            {
+              "id": "ftwd-s08e06",
+              "season": 8,
+              "number": 6,
+              "titleOriginal": "All I See Is Red",
+              "airdate": "2023-06-15",
+              "slotRuntime": 56,
+              "tvmazeId": 2466481
+            },
+            {
+              "id": "ftwd-s08e07",
+              "season": 8,
+              "number": 7,
+              "titleOriginal": "Anton",
+              "airdate": "2023-10-22",
+              "slotRuntime": 47,
+              "tvmazeId": 2601163
+            },
+            {
+              "id": "ftwd-s08e08",
+              "season": 8,
+              "number": 8,
+              "titleOriginal": "Iron Tiger",
+              "airdate": "2023-10-29",
+              "slotRuntime": 52,
+              "tvmazeId": 2601164
+            },
+            {
+              "id": "ftwd-s08e09",
+              "season": 8,
+              "number": 9,
+              "titleOriginal": "Sanctuary",
+              "airdate": "2023-11-05",
+              "slotRuntime": 52,
+              "tvmazeId": 2601165
+            },
+            {
+              "id": "ftwd-s08e10",
+              "season": 8,
+              "number": 10,
+              "titleOriginal": "Keeping Her Alive",
+              "airdate": "2023-11-12",
+              "slotRuntime": 49,
+              "tvmazeId": 2601166
+            },
+            {
+              "id": "ftwd-s08e11",
+              "season": 8,
+              "number": 11,
+              "titleOriginal": "Fighting Like You",
+              "airdate": "2023-11-19",
+              "slotRuntime": 45,
+              "tvmazeId": 2601167
+            },
+            {
+              "id": "ftwd-s08e12",
+              "season": 8,
+              "number": 12,
+              "titleOriginal": "The Road Ahead",
+              "airdate": "2023-11-19",
+              "slotRuntime": 61,
+              "tvmazeId": 2601168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wb",
+      "tvmazeId": 45194,
+      "tvmazeName": "The Walking Dead: World Beyond",
+      "status": "Ended",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/45194/the-walking-dead-world-beyond",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_World_Beyond"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 10,
+          "wikipedia": 10,
+          "match": true
+        },
+        "2": {
+          "tvmaze": 10,
+          "wikipedia": 10,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "wb-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "Brave",
+              "airdate": "2020-10-04",
+              "slotRuntime": 53,
+              "tvmazeId": 1762832
+            },
+            {
+              "id": "wb-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "The Blaze of Gory",
+              "airdate": "2020-10-11",
+              "slotRuntime": 70,
+              "tvmazeId": 1932839
+            },
+            {
+              "id": "wb-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "The Tyger and the Lamb",
+              "airdate": "2020-10-18",
+              "slotRuntime": 68,
+              "tvmazeId": 1940553
+            },
+            {
+              "id": "wb-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "The Wrong End of a Telescope",
+              "airdate": "2020-10-25",
+              "slotRuntime": 66,
+              "tvmazeId": 1940554
+            },
+            {
+              "id": "wb-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Madman Across the Water",
+              "airdate": "2020-11-01",
+              "slotRuntime": 67,
+              "tvmazeId": 1940587
+            },
+            {
+              "id": "wb-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "Shadow Puppets",
+              "airdate": "2020-11-08",
+              "slotRuntime": 66,
+              "tvmazeId": 1940588
+            },
+            {
+              "id": "wb-s01e07",
+              "season": 1,
+              "number": 7,
+              "titleOriginal": "Truth or Dare",
+              "airdate": "2020-11-15",
+              "slotRuntime": 62,
+              "tvmazeId": 1940589
+            },
+            {
+              "id": "wb-s01e08",
+              "season": 1,
+              "number": 8,
+              "titleOriginal": "The Sky is a Graveyard",
+              "airdate": "2020-11-22",
+              "slotRuntime": 65,
+              "tvmazeId": 1940590
+            },
+            {
+              "id": "wb-s01e09",
+              "season": 1,
+              "number": 9,
+              "titleOriginal": "The Deepest Cut",
+              "airdate": "2020-11-29",
+              "slotRuntime": 72,
+              "tvmazeId": 1940594
+            },
+            {
+              "id": "wb-s01e10",
+              "season": 1,
+              "number": 10,
+              "titleOriginal": "In This Life",
+              "airdate": "2020-11-29",
+              "slotRuntime": 72,
+              "tvmazeId": 1940595
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "wb-s02e01",
+              "season": 2,
+              "number": 1,
+              "titleOriginal": "Konsekans",
+              "airdate": "2021-10-03",
+              "slotRuntime": 68,
+              "tvmazeId": 2136202
+            },
+            {
+              "id": "wb-s02e02",
+              "season": 2,
+              "number": 2,
+              "titleOriginal": "Foothold",
+              "airdate": "2021-10-10",
+              "slotRuntime": 68,
+              "tvmazeId": 2167111
+            },
+            {
+              "id": "wb-s02e03",
+              "season": 2,
+              "number": 3,
+              "titleOriginal": "Exit Wounds",
+              "airdate": "2021-10-17",
+              "slotRuntime": 62,
+              "tvmazeId": 2174026
+            },
+            {
+              "id": "wb-s02e04",
+              "season": 2,
+              "number": 4,
+              "titleOriginal": "Family Is A Four Letter Word",
+              "airdate": "2021-10-24",
+              "slotRuntime": 65,
+              "tvmazeId": 2180015
+            },
+            {
+              "id": "wb-s02e05",
+              "season": 2,
+              "number": 5,
+              "titleOriginal": "Quatervois",
+              "airdate": "2021-10-31",
+              "slotRuntime": 65,
+              "tvmazeId": 2185676
+            },
+            {
+              "id": "wb-s02e06",
+              "season": 2,
+              "number": 6,
+              "titleOriginal": "Who Are You?",
+              "airdate": "2021-11-07",
+              "slotRuntime": 67,
+              "tvmazeId": 2190456
+            },
+            {
+              "id": "wb-s02e07",
+              "season": 2,
+              "number": 7,
+              "titleOriginal": "Blood and Lies",
+              "airdate": "2021-11-14",
+              "slotRuntime": 66,
+              "tvmazeId": 2193050
+            },
+            {
+              "id": "wb-s02e08",
+              "season": 2,
+              "number": 8,
+              "titleOriginal": "Returning Point",
+              "airdate": "2021-11-21",
+              "slotRuntime": 61,
+              "tvmazeId": 2193051
+            },
+            {
+              "id": "wb-s02e09",
+              "season": 2,
+              "number": 9,
+              "titleOriginal": "Death and the Dead",
+              "airdate": "2021-11-28",
+              "slotRuntime": 64,
+              "tvmazeId": 2193052
+            },
+            {
+              "id": "wb-s02e10",
+              "season": 2,
+              "number": 10,
+              "titleOriginal": "The Last Light",
+              "airdate": "2021-12-05",
+              "slotRuntime": 74,
+              "tvmazeId": 2193053
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tales",
+      "tvmazeId": 50287,
+      "tvmazeName": "Tales of the Walking Dead",
+      "status": "Ended",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/50287/tales-of-the-walking-dead",
+        "https://en.wikipedia.org/wiki/Tales_of_the_Walking_Dead"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "tales-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "Evie; Joe",
+              "airdate": "2022-08-11",
+              "slotRuntime": 47,
+              "tvmazeId": 2340721
+            },
+            {
+              "id": "tales-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "Blair; Gina",
+              "airdate": "2022-08-14",
+              "slotRuntime": 47,
+              "tvmazeId": 2341111
+            },
+            {
+              "id": "tales-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "Dee",
+              "airdate": "2022-08-21",
+              "slotRuntime": 43,
+              "tvmazeId": 2341112
+            },
+            {
+              "id": "tales-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "Amy; Dr. Everett",
+              "airdate": "2022-08-28",
+              "slotRuntime": 43,
+              "tvmazeId": 2341113
+            },
+            {
+              "id": "tales-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Davon",
+              "airdate": "2022-09-04",
+              "slotRuntime": 44,
+              "tvmazeId": 2341114
+            },
+            {
+              "id": "tales-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "La Doña",
+              "airdate": "2022-09-11",
+              "slotRuntime": 44,
+              "tvmazeId": 2371926
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "towl",
+      "tvmazeId": 64504,
+      "tvmazeName": "The Walking Dead: The Ones Who Live",
+      "status": "Ended",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/64504/the-walking-dead-the-ones-who-live",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_The_Ones_Who_Live"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "towl-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "Years",
+              "airdate": "2024-02-25",
+              "slotRuntime": 80,
+              "tvmazeId": 2691148
+            },
+            {
+              "id": "towl-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "Gone",
+              "airdate": "2024-03-03",
+              "slotRuntime": 76,
+              "tvmazeId": 2747136
+            },
+            {
+              "id": "towl-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "Bye",
+              "airdate": "2024-03-10",
+              "slotRuntime": 69,
+              "tvmazeId": 2747137
+            },
+            {
+              "id": "towl-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "What We",
+              "airdate": "2024-03-17",
+              "slotRuntime": 71,
+              "tvmazeId": 2747138
+            },
+            {
+              "id": "towl-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Become",
+              "airdate": "2024-03-24",
+              "slotRuntime": 70,
+              "tvmazeId": 2747139
+            },
+            {
+              "id": "towl-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "The Last Time",
+              "airdate": "2024-03-31",
+              "slotRuntime": 75,
+              "tvmazeId": 2747140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd",
+      "tvmazeId": 64501,
+      "tvmazeName": "The Walking Dead: Daryl Dixon",
+      "status": "Running",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/64501/the-walking-dead-daryl-dixon",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_Daryl_Dixon"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        },
+        "2": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        },
+        "3": {
+          "tvmaze": 7,
+          "wikipedia": 7,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "dd-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "L'âme Perdue",
+              "airdate": "2023-09-10",
+              "slotRuntime": 61,
+              "tvmazeId": 2579483
+            },
+            {
+              "id": "dd-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "Alouette",
+              "airdate": "2023-09-17",
+              "slotRuntime": 61,
+              "tvmazeId": 2629727
+            },
+            {
+              "id": "dd-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "Paris Sera Toujours Paris",
+              "airdate": "2023-09-24",
+              "slotRuntime": 50,
+              "tvmazeId": 2629728
+            },
+            {
+              "id": "dd-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "La Dame de Fer",
+              "airdate": "2023-10-01",
+              "slotRuntime": 49,
+              "tvmazeId": 2636734
+            },
+            {
+              "id": "dd-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Deux Amours",
+              "airdate": "2023-10-08",
+              "slotRuntime": 58,
+              "tvmazeId": 2637341
+            },
+            {
+              "id": "dd-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "Coming Home",
+              "airdate": "2023-10-15",
+              "slotRuntime": 54,
+              "tvmazeId": 2637342
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "dd-s02e01",
+              "season": 2,
+              "number": 1,
+              "titleOriginal": "La Gentillesse Des Étrangers",
+              "airdate": "2024-09-29",
+              "slotRuntime": 72,
+              "tvmazeId": 2905431
+            },
+            {
+              "id": "dd-s02e02",
+              "season": 2,
+              "number": 2,
+              "titleOriginal": "Moulin Rouge",
+              "airdate": "2024-10-06",
+              "slotRuntime": 88,
+              "tvmazeId": 2994190
+            },
+            {
+              "id": "dd-s02e03",
+              "season": 2,
+              "number": 3,
+              "titleOriginal": "L'Invisible",
+              "airdate": "2024-10-13",
+              "slotRuntime": 75,
+              "tvmazeId": 2994194
+            },
+            {
+              "id": "dd-s02e04",
+              "season": 2,
+              "number": 4,
+              "titleOriginal": "Le Paradis Pour Toi",
+              "airdate": "2024-10-20",
+              "slotRuntime": 64,
+              "tvmazeId": 3007653
+            },
+            {
+              "id": "dd-s02e05",
+              "season": 2,
+              "number": 5,
+              "titleOriginal": "Vouloir, C'est Pouvoir",
+              "airdate": "2024-10-27",
+              "slotRuntime": 84,
+              "tvmazeId": 3007654
+            },
+            {
+              "id": "dd-s02e06",
+              "season": 2,
+              "number": 6,
+              "titleOriginal": "Au Revoir Les Enfants",
+              "airdate": "2024-11-03",
+              "slotRuntime": 88,
+              "tvmazeId": 3007655
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "dd-s03e01",
+              "season": 3,
+              "number": 1,
+              "titleOriginal": "Costa Da Morte",
+              "airdate": "2025-09-07",
+              "slotRuntime": 80,
+              "tvmazeId": 3286079
+            },
+            {
+              "id": "dd-s03e02",
+              "season": 3,
+              "number": 2,
+              "titleOriginal": "La Ofrenda",
+              "airdate": "2025-09-14",
+              "slotRuntime": 68,
+              "tvmazeId": 3345922
+            },
+            {
+              "id": "dd-s03e03",
+              "season": 3,
+              "number": 3,
+              "titleOriginal": "El Sacrificio",
+              "airdate": "2025-09-21",
+              "slotRuntime": 60,
+              "tvmazeId": 3345923
+            },
+            {
+              "id": "dd-s03e04",
+              "season": 3,
+              "number": 4,
+              "titleOriginal": "La Justicia Fronteriza",
+              "airdate": "2025-09-28",
+              "slotRuntime": 72,
+              "tvmazeId": 3345924
+            },
+            {
+              "id": "dd-s03e05",
+              "season": 3,
+              "number": 5,
+              "titleOriginal": "Limbo",
+              "airdate": "2025-10-05",
+              "slotRuntime": 65,
+              "tvmazeId": 3359176
+            },
+            {
+              "id": "dd-s03e06",
+              "season": 3,
+              "number": 6,
+              "titleOriginal": "Contrabando",
+              "airdate": "2025-10-12",
+              "slotRuntime": 76,
+              "tvmazeId": 3359177
+            },
+            {
+              "id": "dd-s03e07",
+              "season": 3,
+              "number": 7,
+              "titleOriginal": "Solaz Del Mar",
+              "airdate": "2025-10-19",
+              "slotRuntime": 73,
+              "tvmazeId": 3359178
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "tvmazeId": 60879,
+      "tvmazeName": "The Walking Dead: Dead City",
+      "status": "To Be Determined",
+      "upcomingEpisodesListed": 0,
+      "sources": [
+        "https://www.tvmaze.com/shows/60879/the-walking-dead-dead-city",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_Dead_City"
+      ],
+      "crossCheck": {
+        "1": {
+          "tvmaze": 6,
+          "wikipedia": 6,
+          "match": true
+        },
+        "2": {
+          "tvmaze": 8,
+          "wikipedia": 8,
+          "match": true
+        },
+        "3": {
+          "tvmaze": 8,
+          "wikipedia": 8,
+          "match": true
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "dc-s01e01",
+              "season": 1,
+              "number": 1,
+              "titleOriginal": "Old Acquaintances",
+              "airdate": "2023-06-15",
+              "slotRuntime": 55,
+              "tvmazeId": 2512112
+            },
+            {
+              "id": "dc-s01e02",
+              "season": 1,
+              "number": 2,
+              "titleOriginal": "Who's There?",
+              "airdate": "2023-06-22",
+              "slotRuntime": 44,
+              "tvmazeId": 2512113
+            },
+            {
+              "id": "dc-s01e03",
+              "season": 1,
+              "number": 3,
+              "titleOriginal": "People Are a Resource",
+              "airdate": "2023-06-29",
+              "slotRuntime": 44,
+              "tvmazeId": 2512114
+            },
+            {
+              "id": "dc-s01e04",
+              "season": 1,
+              "number": 4,
+              "titleOriginal": "Everybody Wins a Prize",
+              "airdate": "2023-07-06",
+              "slotRuntime": 46,
+              "tvmazeId": 2512115
+            },
+            {
+              "id": "dc-s01e05",
+              "season": 1,
+              "number": 5,
+              "titleOriginal": "Stories We Tell Ourselves",
+              "airdate": "2023-07-13",
+              "slotRuntime": 52,
+              "tvmazeId": 2512116
+            },
+            {
+              "id": "dc-s01e06",
+              "season": 1,
+              "number": 6,
+              "titleOriginal": "Doma Smo",
+              "airdate": "2023-07-20",
+              "slotRuntime": 44,
+              "tvmazeId": 2512117
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "dc-s02e01",
+              "season": 2,
+              "number": 1,
+              "titleOriginal": "Power Equals Power",
+              "airdate": "2025-05-04",
+              "slotRuntime": 58,
+              "tvmazeId": 3160771
+            },
+            {
+              "id": "dc-s02e02",
+              "season": 2,
+              "number": 2,
+              "titleOriginal": "Another Shitty Lesson",
+              "airdate": "2025-05-11",
+              "slotRuntime": 50,
+              "tvmazeId": 3160778
+            },
+            {
+              "id": "dc-s02e03",
+              "season": 2,
+              "number": 3,
+              "titleOriginal": "Why Did the Mainlanders Cross the River?",
+              "airdate": "2025-05-18",
+              "slotRuntime": 54,
+              "tvmazeId": 3160779
+            },
+            {
+              "id": "dc-s02e04",
+              "season": 2,
+              "number": 4,
+              "titleOriginal": "Feisty Friendly",
+              "airdate": "2025-05-25",
+              "slotRuntime": 50,
+              "tvmazeId": 3160780
+            },
+            {
+              "id": "dc-s02e05",
+              "season": 2,
+              "number": 5,
+              "titleOriginal": "The Bird Always Knows",
+              "airdate": "2025-06-01",
+              "slotRuntime": 50,
+              "tvmazeId": 3160781
+            },
+            {
+              "id": "dc-s02e06",
+              "season": 2,
+              "number": 6,
+              "titleOriginal": "Bridge Partners Are Hard to Come By These Days",
+              "airdate": "2025-06-08",
+              "slotRuntime": 55,
+              "tvmazeId": 3160782
+            },
+            {
+              "id": "dc-s02e07",
+              "season": 2,
+              "number": 7,
+              "titleOriginal": "Novi Dan, Novi Početak",
+              "airdate": "2025-06-15",
+              "slotRuntime": 69,
+              "tvmazeId": 3160783
+            },
+            {
+              "id": "dc-s02e08",
+              "season": 2,
+              "number": 8,
+              "titleOriginal": "If History Were a Conflagration",
+              "airdate": "2025-06-22",
+              "slotRuntime": 47,
+              "tvmazeId": 3160784
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "dc-s03e01",
+              "season": 3,
+              "number": 1,
+              "titleOriginal": "Trillium",
+              "airdate": "2026-07-26",
+              "slotRuntime": 57,
+              "tvmazeId": 3618119
+            },
+            {
+              "id": "dc-s03e02",
+              "season": 3,
+              "number": 2,
+              "titleOriginal": "Haven",
+              "airdate": "2026-08-02",
+              "slotRuntime": 53,
+              "tvmazeId": 3663491
+            },
+            {
+              "id": "dc-s03e03",
+              "season": 3,
+              "number": 3,
+              "titleOriginal": "Emigrants",
+              "airdate": "2026-08-09",
+              "slotRuntime": 46,
+              "tvmazeId": 3670336
+            },
+            {
+              "id": "dc-s03e04",
+              "season": 3,
+              "number": 4,
+              "titleOriginal": "Found / Lost",
+              "airdate": "2026-08-16",
+              "slotRuntime": 50,
+              "tvmazeId": 3680027
+            },
+            {
+              "id": "dc-s03e05",
+              "season": 3,
+              "number": 5,
+              "titleOriginal": "Imperialis",
+              "airdate": "2026-08-23",
+              "slotRuntime": 49,
+              "tvmazeId": 3684118
+            },
+            {
+              "id": "dc-s03e06",
+              "season": 3,
+              "number": 6,
+              "titleOriginal": "Genesis",
+              "airdate": "2026-08-30",
+              "slotRuntime": 58,
+              "tvmazeId": 3684169
+            },
+            {
+              "id": "dc-s03e07",
+              "season": 3,
+              "number": 7,
+              "titleOriginal": "Hourglass",
+              "airdate": "2026-09-06",
+              "slotRuntime": 54,
+              "tvmazeId": 3684170
+            },
+            {
+              "id": "dc-s03e08",
+              "season": 3,
+              "number": 8,
+              "titleOriginal": "Tenebrae",
+              "airdate": "2026-09-13",
+              "slotRuntime": 51,
+              "tvmazeId": 3684171
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

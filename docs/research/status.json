@@ -1,0 +1,176 @@
+{
+  "asOf": "2026-10-13",
+  "series": {
+    "dd": {
+      "title": "The Walking Dead: Daryl Dixon",
+      "network": "AMC / AMC+",
+      "aired": [
+        {
+          "season": 1,
+          "episodes": 6,
+          "start": "2023-09-10",
+          "end": "2023-10-15"
+        },
+        {
+          "season": 2,
+          "subtitle": "The Book of Carol",
+          "episodes": 6,
+          "start": "2024-09-29",
+          "end": "2024-11-03"
+        },
+        {
+          "season": 3,
+          "episodes": 7,
+          "start": "2025-09-07",
+          "end": "2025-10-19"
+        }
+      ],
+      "airedEpisodeTotal": 19,
+      "upcoming": {
+        "season": 4,
+        "episodes": 8,
+        "isFinalSeason": true,
+        "expectedPremiere": "2027-02 (month only)",
+        "status": "Post-production / not aired"
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_Daryl_Dixon",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead_(franchise)"
+      ]
+    },
+    "dc": {
+      "title": "The Walking Dead: Dead City",
+      "network": "AMC / AMC+",
+      "aired": [
+        {
+          "season": 1,
+          "episodes": 6,
+          "start": "2023-06-18",
+          "end": "2023-07-23"
+        },
+        {
+          "season": 2,
+          "episodes": 8,
+          "start": "2025-05-04",
+          "end": "2025-06-22"
+        },
+        {
+          "season": 3,
+          "episodes": 8,
+          "start": "2026-07-26",
+          "end": "2026-09-13",
+          "episodeTitles": [
+            "Trillium",
+            "Haven",
+            "Emigrants",
+            "Found/Lost",
+            "Imperialis",
+            "Genesis",
+            "Hourglass",
+            "Tenebrae"
+          ]
+        }
+      ],
+      "airedEpisodeTotal": 22,
+      "note": "Dates are AMC linear premieres; Wikipedia notes S1 episodes were available on AMC+ three days earlier. No season 4 renewal found in fetched sources (as of 2026-10-13) – not the same as 'not renewed'.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Walking_Dead:_Dead_City",
+        "https://en.wikipedia.org/wiki/The_Walking_Dead_(franchise)"
+      ]
+    }
+  },
+  "newSeries2025_2026": {
+    "found": [],
+    "note": "Wikipedia franchise article lists seven live-action series; no new series premiered in 2025–2026. 'More Tales from the Walking Dead Universe' listed as in development since April 2023. A video game ('The Walking Dead: Streets of Survival') was announced 2026-06-12 – not a TV series.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Walking_Dead_(franchise)"
+    ]
+  },
+  "brazilStreaming": {
+    "caveat": "Catalogs change; each entry carries the date of the article it comes from. Only pages actually fetched are cited. None of these are official AMC/platform pages.",
+    "entries": [
+      {
+        "series": "twd",
+        "service": "Disney+",
+        "claim": "As 11 temporadas de 'The Walking Dead' estão disponíveis no Brasil no streaming do Disney+.",
+        "asOf": "2025 (article undated; URL path 2025/01)",
+        "source": "https://www.correiobraziliense.com.br/webstories/flipar/2025/01/7042743-serie-derivada-de-the-walking-dead-retorna-em-2025-veja-onde-assistir-aos-spin-offs.html",
+        "confidence": "medium"
+      },
+      {
+        "series": "fear",
+        "service": "Prime Video",
+        "claim": "Temporadas disponíveis no Prime Video; série transmitida pela AMC Brasil.",
+        "asOf": "2024-10-21",
+        "source": "https://www.omelete.com.br/walking-dead/walking-dead-derivados-guia",
+        "confidence": "medium"
+      },
+      {
+        "series": "wb",
+        "service": "Prime Video",
+        "claim": "Disponível no Brasil pelo Prime Video.",
+        "asOf": "2025 (undated)",
+        "source": "https://www.correiobraziliense.com.br/webstories/flipar/2025/01/7042743-serie-derivada-de-the-walking-dead-retorna-em-2025-veja-onde-assistir-aos-spin-offs.html",
+        "confidence": "medium"
+      },
+      {
+        "series": "tales",
+        "service": "Prime Video",
+        "claim": "Disponível no Prime Video.",
+        "asOf": "2024-10-21",
+        "source": "https://www.omelete.com.br/walking-dead/walking-dead-derivados-guia",
+        "confidence": "medium"
+      },
+      {
+        "series": "towl",
+        "service": "Prime Video",
+        "claim": "A série está disponível no Prime Video (chegada prevista 2024-04-19 per Canaltech).",
+        "asOf": "2024-10-21",
+        "source": "https://www.omelete.com.br/walking-dead/walking-dead-derivados-guia",
+        "alsoSource": "https://canaltech.com.br/series/the-walking-dead-spin-offs-e-onde-assisti-las-283287/",
+        "confidence": "medium"
+      },
+      {
+        "series": "dd",
+        "seasons": [
+          1,
+          2,
+          3
+        ],
+        "service": "Prime Video",
+        "claim": "S1–S2 no Prime Video; S3 'será exibida no Brasil pela plataforma de streaming Prime Video', estreia prevista 20 de outubro (2025).",
+        "asOf": "2025-10-01",
+        "source": "https://www.omelete.com.br/series-tv/the-walking-dead-daryl-dixon-onde-assistir",
+        "confidence": "medium"
+      },
+      {
+        "series": "dc",
+        "seasons": [
+          1,
+          2
+        ],
+        "service": "Prime Video",
+        "claim": "The Walking Dead: Dead City está disponível no Brasil no Prime Video.",
+        "asOf": "2026-07-24",
+        "source": "https://www.omelete.com.br/series-tv/the-walking-dead-dead-city-quando-estreia-3a-temporada-brasil",
+        "confidence": "medium"
+      },
+      {
+        "series": "dc",
+        "seasons": [
+          3
+        ],
+        "service": "AMC (canal, Brasil)",
+        "claim": "AMC confirmou que a 3ª temporada estreia no Brasil em outubro de 2026; série exibida no canal AMC. Data exata e chegada ao Prime Video não verificadas.",
+        "asOf": "2026-07-24",
+        "source": "https://www.omelete.com.br/series-tv/the-walking-dead-dead-city-quando-estreia-3a-temporada-brasil",
+        "confidence": "medium"
+      }
+    ],
+    "unverified": [
+      "Netflix Brasil carrying TWD (seen only in a search snippet, not fetched).",
+      "Exact Brazilian premiere date of Dead City S3.",
+      "Whether Daryl Dixon S3 actually landed on Prime Video BR on 2025-10-20 (article was forward-looking)."
+    ]
+  }
+}
