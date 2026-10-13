@@ -7,3 +7,6 @@ playwright-report
 screenshots
 .DS_Store
 .vercel
+
+.vercel
+.env*

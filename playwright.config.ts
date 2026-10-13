@@ -8,12 +8,12 @@ export default defineConfig({
   reporter: [['list']],
   timeout: 60_000,
   use: {
-    baseURL: 'http://localhost:4173',
+    baseURL: process.env.BASE_URL ?? 'http://localhost:4173',
     locale: 'pt-BR',
     timezoneId: 'America/Sao_Paulo',
     colorScheme: 'dark',
   },
-  webServer: {
+  webServer: process.env.BASE_URL ? undefined : {
     command: 'npx vite preview --port 4173 --strictPort',
     url: 'http://localhost:4173',
     reuseExistingServer: true,

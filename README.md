@@ -37,7 +37,7 @@ npm run preview      # http://localhost:4173
 | `npm run lint` | ESLint |
 | `npm run typecheck` | TypeScript strict (app + e2e + configs) |
 | `npm test` | Testes unitários (Vitest) |
-| `npm run test:e2e` | Testes end-to-end (Playwright; precisa de `npm run build` antes) |
+| `npm run test:e2e` | Testes end-to-end (Playwright; precisa de `npm run build` antes). `BASE_URL=https://... npm run test:e2e` testa um deploy |
 | `npm run data:validate` | Valida a integridade do catálogo e da cronologia |
 | `npm run data:fetch` | Atualiza metadados de episódios (TVmaze + conferência na Wikipedia) |
 | `npm run data:titles` | Compara todos os títulos com as tabelas da Wikipedia e lista divergências |
@@ -142,3 +142,10 @@ Screenshots gerados pelos testes ficam em `screenshots/` (ignorado pelo git).
 - A cronologia fina entre séries depende de uma fonte de fãs; veja os graus de confiança na timeline.
 - O catálogo é estático por versão: episódios novos (ex.: *Daryl Dixon* T4) exigem `npm run data:fetch`,
   encaixe em `timeline.ts` e um novo build.
+
+## Deploy
+
+Produção: **https://afterfall-sooty.vercel.app** (Vercel, projeto `afterfall`, conectado a este repositório).
+Cada push em `main` gera um deploy de produção automaticamente; outras branches geram previews.
+`vercel.json` define o fallback de SPA e os cabeçalhos de cache (service worker e manifest sem cache,
+assets com hash imutáveis).
